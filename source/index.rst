@@ -70,7 +70,7 @@ How to Schedule a Customized Meeting
 
 .. topic:: 5. Meeting duration
 
-	Set up the meeting duration e.g. 30 minutes, to set your end time.
+	Set up the meeting duration e.g., 30 minutes, to set your end time.
 
 	.. image:: images/6-Schedule_Meeting.PNG
 				:align: center
