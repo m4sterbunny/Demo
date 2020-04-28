@@ -1,5 +1,5 @@
-Welcome to Harries Demo Documentation
-=====================================
+Welcome to Harrie's Demo
+========================
 
 .. toctree::
    :maxdepth: 2
@@ -10,8 +10,7 @@ Welcome to Harries Demo Documentation
 .. _Zoom: https://www.zoom.us/freesignup/
 
 
-Welcome to Harrie's Demo
-========================
+
 
 .. toctree::
    :maxdepth: 2
