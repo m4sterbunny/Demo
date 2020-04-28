@@ -35,14 +35,14 @@ How to Schedule a Customized Meeting
 
 .. topic:: 1. Set up a new meeting
 
-	Select SCHEDULE A MEETING from the menu in the top right of your browser window.
+	Select "schedule a meeting" from the menu in the top right of your browser window.
 
 	.. image:: images/1-Schedule_Meeting.PNG
 				:align: center
 
-.. topic:: 2. Set up your Topic
+.. topic:: 2. Set up your topic
 
-	Customize your Topic by overwriting "My Meeting" e.g., to "One-on-One Call".
+	Customize your topic by overwriting "My Meeting" e.g., to "One-on-One Call".
 
 	.. image:: /images/2-Schedule_Meeting.PNG
 				:align: center
@@ -84,14 +84,14 @@ How to Schedule a Customized Meeting
 
 .. topic:: 7. Meeting ID
 
-	Create your Personal Meeting ID that may be reused for future meetings. 
+	Create your personal meeting ID that may be reused for future meetings. 
 
 	.. image:: images/8-Schedule_Meeting.PNG
 				:align: center
 
 .. topic:: 8. Password
 
-	For this demo, we will not use a Meeting Password.
+	For this demo, we will not use a meeting password.
 
 	.. image:: images/9-Schedule_Meeting.PNG
 				:align: center
@@ -103,7 +103,7 @@ How to Schedule a Customized Meeting
 
 .. topic:: 9. Meeting Options
 
-	For this demo, we will accept all the defaults provided except for Meeting Options. 
+	For this demo, we will accept all the defaults provided except for the meeting options. 
 
 	Check the following boxes:
 
