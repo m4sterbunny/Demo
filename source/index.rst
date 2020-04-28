@@ -33,14 +33,14 @@ How to Schedule a Customized Meeting
 
 |
 
-.. topic:: 1. Setup a new meeting
+.. topic:: 1. Set up a new meeting
 
 	Select SCHEDULE A MEETING from the menu in the top right of your browser window.
 
 	.. image:: images/1-Schedule_Meeting.PNG
 				:align: center
 
-.. topic:: 2. Setup your Topic
+.. topic:: 2. Set up your Topic
 
 	Customize your Topic by overwriting "My Meeting" e.g., to "One-on-One Call".
 
@@ -61,7 +61,7 @@ How to Schedule a Customized Meeting
 		.. image:: images/4-Schedule_Meeting.PNG
 				:align: center
 
-	4.2 Setup the time slot
+	4.2 Set up the time slot
 
 		Use the dropdown menu to set up your meeting start time.
 
@@ -70,7 +70,7 @@ How to Schedule a Customized Meeting
 
 .. topic:: 5. Meeting duration
 
-	Setup the meeting duration e.g. 30 minutes, to set your end time.
+	Set up the meeting duration e.g. 30 minutes, to set your end time.
 
 	.. image:: images/6-Schedule_Meeting.PNG
 				:align: center
