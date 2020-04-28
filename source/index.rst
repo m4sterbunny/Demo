@@ -103,7 +103,9 @@ How to Schedule a Customized Meeting
 
 .. topic:: 9. Meeting Options
 
-	For this demo, we will accept the defaults provided except for those Meeting Options. Check the following boxes:
+	For this demo, we will accept all the defaults provided except for Meeting Options. 
+
+	Check the following boxes:
 
 	.. image:: images/10-Schedule_Meeting.PNG
 				:align: center
