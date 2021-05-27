@@ -1,6 +1,4 @@
 # Demo
-Walkthrough
-
 
 ## There is more
 
@@ -16,3 +14,4 @@ Hosting [this page](https://rtd-gcp-cloud.readthedocs.io/en/latest/), this docum
 3. [setup Sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
 
 4. build by running `make html` on the master folder (1 level above source and build)
+
