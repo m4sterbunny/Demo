@@ -48,7 +48,7 @@ Step 2: Test your Bulb
 
    Incandescent light bulbs can get very hot. If you have an incandescent bulb that was recently lit, then use a small towel between it and your hand.
 
-2.1 Set your light switch to the "off" position. If you are not sure of the position to use, apply the position shown in 1.1.
+2.1 Set your light switch to the "off" position. If you are not sure of the position to use, apply the opposite position to that shown in 1.1.
 
 2.2 (Optional) Set up the ladder.
 
