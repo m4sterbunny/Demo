@@ -1,5 +1,5 @@
-Welcome to Harrie's Demo
-========================
+Welcome to Harrie's Demo Pages
+==============================
 
 .. toctree::
    :maxdepth: 2
