@@ -2,7 +2,7 @@ Ready to Change a Light Bulb?
 =============================
 
 
-Preconditions
+Prerequisites
 -------------
 
 You will need:
@@ -29,7 +29,7 @@ Verify the light bulb requires changing by testing.
          :width: 200
          :height: 250
 
-   Typically, when the lowest edge touches the wall the circuit is complete, and the switch is "on". However, this is not a fixed rule. Do try both positions.
+   Typically, when the lowest edge touches the wall the circuit is complete, i.e. electricity will flow. However, this is not a fixed rule. Do try both positions.
 
 1.2 Test the wider circuit by ensuring that all the switches in your circuit breaker are aligned.
 
@@ -69,4 +69,4 @@ Step 2: Test your Bulb
 
    Incandescent bulbs may be wrapped in old paper and placed in the trash. Energy-saving bulbs must be handed into a recycling center capable of processing mercury.
 
-Community. If the tips above don’t help, please visit `#production help <https://chat.zulip.org/login/#narrow/stream/31-production-help>`_ in the `Zulip development community server <https://zulip.readthedocs.io/en/latest/contributing/chat-zulip-org.html>`_ for realtime help, and we’ll try to help you out! 
+
