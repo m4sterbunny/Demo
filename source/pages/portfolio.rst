@@ -1,5 +1,5 @@
-Welcome to Harrie's Showcase Links
-==================================
+Showcase
+========
 
 .. toctree::
    :maxdepth: 2
@@ -16,14 +16,11 @@ Welcome to Harrie's Showcase Links
 .. _cloudrf: https://m4sterbunny.github.io/build/#client-1-cloud-rf
 
 
-Live Work
-=========
-
 
 Documentation
 -------------
 
-Showcasing can be a challengeMany clients have access management, meaning that the documentation that I assisted with is available to their clients only. Happily, there are examples in the "wild" that are publically available.
+Showcasing can be a challenge. Many clients have access management, meaning that the documentation that I assisted with is available to their clients only. Happily, there are examples in the "wild" that are publically available.
 
 API Documentation
 -----------------
@@ -61,14 +58,14 @@ Cloud RFs API will be publically available, in the meantime, I provided a brief 
 Case Studies
 ------------
 
-.. list-table:: Title
+.. list-table:: Case Studies
    :widths: 25 25 50
    :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 1, column 1
+   * - Client
+     - About the Client
+     - URL
+   * - Reustle
      -
      - Row 1, column 3
    * - Row 2, column 1
