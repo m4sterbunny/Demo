@@ -2,7 +2,7 @@ Ready to Change a Light Bulb?
 =============================
 
 
-Preconditions
+Prerequisites
 -------------
 
 You will need:
@@ -29,13 +29,13 @@ Verify the light bulb requires changing by testing.
          :width: 200
          :height: 250
 
-   Typically, when the lowest edge touches the wall the circuit is complete, and the switch is "on". However, this is not a fixed rule. Do try both positions.
+   Typically, when the lowest edge touches the wall the circuit is complete, i.e. electricity will flow. However, this is not a fixed rule. Do try both positions.
 
 1.2 Test the wider circuit by ensuring that all the switches in your circuit breaker are aligned.
 
 .. topic:: Circuit Breaker
 
-   All properties with electricity have a control panel or circuit breaker. Locate this and inspect the switch positions. If some of those switches are in the opposite setting to others, align them.
+   All properties with electricity have a control panel or circuit breaker. Locate this and inspect the switch positions. If one of those switches are in the opposite setting to others, align it with the rest.
 
 If neither approach resolves the lack of light issue, then you need to access the bulb. You may need a ladder, towel, and replacement bulb for the next step.
 
@@ -44,11 +44,11 @@ Step 2: Test your Bulb
 
 .. warning:: Stay Safe
 
-   Falls can be painful and result in injury. If the lightbulb is out of reach, ensure that you have access to a robust ladder with solid feet that will not slip.
+   Falls can be painful and result in injury. If the light bulb is out of reach, ensure that you have access to a robust ladder with solid feet that will not slip.
 
-   Incandescent light bulbs can get very hot. If you have an incandecent bulb that was recently lit, then use a small towel between it and your hand.
+   Incandescent light bulbs can get very hot. If you have an incandescent bulb that was recently lit, then use a small towel between it and your hand.
 
-2.1 Set your light switch to the "off" position. If you are not sure of the position to use, apply the position shown in 1.1.
+2.1 Set your light switch to the "off" position. If you are not sure of the position to use, apply the opposite position to that shown in 1.1.
 
 2.2 (Optional) Set up the ladder.
 
@@ -67,6 +67,6 @@ Step 2: Test your Bulb
 
 .. topic:: Disposal
 
-   Incandescent bulbs may be wrapped in old paper and placed in the trash. Energy-saving bulbs must be handed into a recyling centre capable of processing mercury.
+   Incandescent bulbs may be wrapped in old paper and placed in the trash. Energy-saving bulbs must be handed into a recycling center capable of processing mercury.
 
-Community. If the tips above don’t help, please visit `#production help <https://chat.zulip.org/login/#narrow/stream/31-production-help>`_ in the `Zulip development community server <https://zulip.readthedocs.io/en/latest/contributing/chat-zulip-org.html>`_ for realtime help, and we’ll try to help you out! 
+

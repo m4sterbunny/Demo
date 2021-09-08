@@ -1,4 +1,4 @@
-A Basic Zoom Walkthrough
+Welcome to Harrie's Demo
 ========================
 
 .. toctree::
@@ -19,12 +19,13 @@ This article will introduce simple customizations for Zoom meetings.
 Preconditions
 -------------
 
-Setup a Zoom_ account and sign in.
+Start by setting up a free Zoom_ account and signing in.
 
 
 How to Schedule a Customized Meeting
 ------------------------------------
 
+|
 
 .. topic:: 1. Set up a new meeting
 
