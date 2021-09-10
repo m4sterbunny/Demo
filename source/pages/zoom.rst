@@ -1,5 +1,5 @@
-Welcome to Harrie's Demo
-========================
+Zoom Customizations
+===================
 
 .. toctree::
    :maxdepth: 2
@@ -9,7 +9,7 @@ Welcome to Harrie's Demo
 
 .. _Zoom: https://www.zoom.us/freesignup/
 
-
+This item was a walkthrough test piece from a potential client.
    
 Zoom Basics
 -----------

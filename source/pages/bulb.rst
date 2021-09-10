@@ -1,6 +1,7 @@
-Ready to Change a Light Bulb?
-=============================
+Change a Light Bulb
+===================
 
+This item was a test piece from a potential client. It is common for clients to assess a writer's empathy for the intended audience. Bit of an abstraction of course, the classic is "How to make a Sandwich". Is the reader familiar with sandwich making? How much scaffolding do they need? In this instance, I drew the line at: probably has changed a light bulb before, may not know the 'dangers'.
 
 Prerequisites
 -------------
@@ -61,7 +62,7 @@ Step 2: Test your Bulb
    Broken bulbs can cut, and modern "energy-saving" bulbs contain toxic mercury.
 
 
-2.4 Replace the suspect bulb with a new bulb and test it by returning the switch to the on position. If the issue was a dud bulb, then you now have a working light.
+2.4 Replace the suspect bulb with a new bulb and test it by returning the switch to the on position (see 1.1). If the issue was a dud bulb, then you now have a working light.
 
 2.5 Dispose of the old bulb safely.
 
