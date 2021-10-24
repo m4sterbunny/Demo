@@ -67,7 +67,7 @@ Technical Writing Showcase
 
 .. _Aperium: https://aperiumreality.com/index.php/en/press-kit/
 
-.. _Starkware: https://starkware.co
+.. _StarkWare: https://starkware.co
 
 .. _StarkEx: https://medium.com/starkware/a-trustless-sidechain-to-starkex-bridge-secured-by-ethereum-61e00f19f7e0
 
@@ -225,7 +225,7 @@ Alternatively, clients often have internal subject matter experts who write and 
      - `filespin.io <https://filespin.io/>`_
    * - Stark
      - StarkWare is a startup in the blockchain space. I assist with editing their user documentation, articles, and the website content
-     - Starkware_
+     - StarkWare_
    * -
      - StarkWare has several product offerings including StarkEx, and publishes both on-site and via Medium, e.g.
      - StarkEx_
