@@ -202,7 +202,7 @@ Editing
 Books
 *****
 
-With a PhD in Biology and an undergraduate degree in parasitology, I guess it is no surprise that Daniel from `parasites without borders <http://parasiteswithoutborders.com/books/>`_ reached out to ask me to edit in the medical field. I still occasionally have time to assist with papers and PhD edits.
+With a PhD in Biology and an undergraduate degree in parasitology, I guess it is no surprise that Daniel from `Parasites without Borders <http://parasiteswithoutborders.com/books/>`_ reached out to ask me to edit in the medical field. I still occasionally have time to assist with papers and PhD edits.
 
 This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for pronunciation guide, assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the pdf. Despite being a supported, paid for option, I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed. All in all a great experience.
 
