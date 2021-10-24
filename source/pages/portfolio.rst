@@ -227,7 +227,7 @@ Alternatively, clients often have internal subject matter experts who write and 
      - StarkWare is a startup in the blockchain space. I assist with editing their user documentation, articles, and the website content
      - Starkware_
    * -
-     - Starkware has several product offerings including StarkEx and publishes both on-site and via Medium, e.g.
+     - StarkWare has several product offerings including StarkEx, and publishes both on-site and via Medium, e.g.
      - StarkEx_
    * -
      -
@@ -236,7 +236,7 @@ Alternatively, clients often have internal subject matter experts who write and 
      - e-CENS assists clients with data analytics such as Google analytics and CRM product implementation such as Tealium. With English as a second language writers, I have assisted with numerous articles and supported e-CENS through a website relaunch
      - ecens_
    * - Soho
-     - Soho Dragon are a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig, and with the client being unresponsive put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations such as capacity statements for bids.
+     - Soho Dragon are a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig, and with the client being unresponsive, put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations such as capacity statements for bids.
      - Soho_
 
 

@@ -87,7 +87,7 @@ API Documentation Links
 - smtp2go_ wip API (will be public)
 - cloudRF_ wip API (will be public)
 
-See more about these :ref:`API projects` below and via their links.
+See more about these :ref:`API projects` and others below and via their links above.
 
 User Guide Documentation Links
 -------------------------------
@@ -213,7 +213,7 @@ Several clients have created cross-over projects along the lines of: "would you 
 
 Alternatively, clients often have internal subject matter experts who write and want to improve the copy prior to it going public.
 
-.. list-table:: Web Content & Articles
+.. list-table:: Web Content & Article Editing
    :widths: 25 50 25
    :header-rows: 1
 
@@ -224,10 +224,10 @@ Alternatively, clients often have internal subject matter experts who write and 
      - As I was already aboard assisting with article creation and case studies, I guess it is was a no-brainer to ask me to review the web content for their re-launch
      - `filespin.io <https://filespin.io/>`_
    * - Stark
-     - StarkWare is a startup in the blockchain space. I assist with their user documentation, articles, and the website content
+     - StarkWare is a startup in the blockchain space. I assist with editing their user documentation, articles, and the website content
      - Starkware_
    * -
-     - Starkware has several product offerings including StarkEx and publishes both on-stite and via Medium
+     - StarkWare has several product offerings including StarkEx, and publishes both on-site and via Medium, e.g.
      - StarkEx_
    * -
      -
@@ -236,7 +236,7 @@ Alternatively, clients often have internal subject matter experts who write and 
      - e-CENS assists clients with data analytics such as Google analytics and CRM product implementation such as Tealium. With English as a second language writers, I have assisted with numerous articles and supported e-CENS through a website relaunch
      - ecens_
    * - Soho
-     - Soho Dragon are a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig, and with the client being unresponsive put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations such as capacity statements for bids.
+     - Soho Dragon are a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig, and with the client being unresponsive, put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations such as capacity statements for bids.
      - Soho_
 
 
