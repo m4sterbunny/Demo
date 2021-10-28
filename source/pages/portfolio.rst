@@ -6,7 +6,7 @@ Technical Writing Showcase
    :caption: Contents:
 
 
-.. _Upstart: https://apidocs.upstartcommerce.com/
+.. _Upstart: https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card
 
 .. _Faria: https://m4sterbunny.github.io/build/#client-3-faria
 
@@ -25,7 +25,6 @@ Technical Writing Showcase
 .. _DAM: https://filespin.io/blog/2021-01-02-why-do-businesses-need-digital-asset-management/
 
 .. _shopping: https://filespin.io/blog/2021-06-29-media-management-saas-for-your-enterprise/
-
 
 .. _JGC: https://strata.co.jp/case-studies/jgc-corporation
 
@@ -67,35 +66,91 @@ Technical Writing Showcase
 
 .. _Aperium: https://aperiumreality.com/index.php/en/press-kit/
 
-.. _StarkWare: https://starkware.co
+.. _Stark: https://starkware.co
+
+.. _StarkExV3: https://docs.starkware.co/starkex-v3/
 
 .. _StarkEx: https://medium.com/starkware/a-trustless-sidechain-to-starkex-bridge-secured-by-ethereum-61e00f19f7e0
+
+.. _Cairo: https://cairo-lang.org/docs/hello_starknet/index.html
 
 .. _ecens: https://e-cens.com
 
 .. _Soho: https://sohodragon.nyc/
 
+.. _NetworQ: https://github.com/networq/www.networq.io/blob/master/getting-started.md
+
+.. _Bitcoin_Cryptography: https://www.talent.io/p/fr-blog/elliptic-curves-and-bitcoin
+
+.. _Feature_Development: https://www.talent.io/p/fr-blog/better-estimates-with-a-feature-development-cycle
+
+.. _Algopix_HighLevel: https://docs.algopix.com/docs/algopix-api-documentation/ZG9jOjE3ODE1Mjg3-how-to-use-the-async-api
+
+.. _Algopix: https://docs.algopix.com/docs/algopix-api-documentation/b3A6MTgwOTAyOTQ-request-products-analysis
+
+.. _paper: https://pubmed.ncbi.nlm.nih.gov/29726023/
+
+.. _research: https://www.mietafrica.org/wp-content/uploads/2017/04/The-evolving-role-of-21st-Century-Education-NGOs-in-South-Africa.pdf
+
+.. _editing: https://drive.google.com/file/d/1g0CogthUGGJ1sEZw43XeOqQwQ9AgOXIs/view
+
 Documentation
 -------------
 
-Showcasing can be a challenge. Many clients have access management, meaning that the documentation that I assisted with is available to their clients only. Happily, there are examples in the "wild" that are publicly available.
+Showcasing can be a challenge. Many clients have access management, meaning that the documentation I assisted with is only available to their clients. Happily, there are some examples in the "wild" that are publicly available.
 
-API Documentation Links
------------------------
-- Upstart_ Commerce public API docs
+API Documentation
+-----------------
+
+- Upstart_ Commerce
+
+.. topic:: Note
+
+  The link goes directly to an endpoint that I have edited/approved, but this is a living document that may have endpoints not handled by me!.
+
+- Algopix_ (ditto the note above)
 - Faria_ private API docs
 - smtp2go_ wip API (will be public)
 - cloudRF_ wip API (will be public)
 
-See more about these :ref:`API projects` and others below and via their links above.
+See more about these :ref:`API projects` and others below.
 
-User Guide Documentation Links
--------------------------------
+User Guide Documentation
+------------------------
 
-Of all the material I assist to create, user documentation is probably the most likely to not be publicly accessible. I have just two snippets to expose for now:
+Of all the material I create, user documentation is probably the most likely not to be publicly accessible.
+
+This SaaS documentation item is in review, and is exposed from my account (with permission). It was written in Markdown in GitBook:
 
 - Allelica_
-- Braze_
+
+I often create the high-level documentation to assist users to understand the use cases for the API specification that I have created or edited. Such as this `high-level documentation for Algopix <Algopix_HighLevel_>`_.
+
+Not only do I create user guides from scratch, but I also assist with editing the existing documents:
+
+.. list-table:: Documentation Editing
+   :widths: 25 50 25
+   :header-rows: 1
+
+   * - Client
+     - About the gig
+     - URL
+   * - Stark
+     - Stark_ is a startup in the blockchain space. I assist with editing their user documentation, articles, and website content. For example, I am currently editing the existing StarkEx documentation (written in Markdown in GitBook).
+     - StarkExV3_
+   * -
+     - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently editing the existing documentation (written in reStructured text).
+     - Cairo_
+   * - Braze
+     - Braze provides a full-service marketing SaaS. They needed someone to update their documentation to align it with their new style guide (written in Markdown).
+     - Braze_
+
+Installation Guide
+------------------
+
+Simple installation how-tos are essential for the sanity of everyone, wouldn't you agree?! I created this for NetworQ_.
+
+I also suggested the branding to NetworQ from Networkq. I like it; I hope it stuck!
 
 
 Case Studies
@@ -118,10 +173,10 @@ Case Studies
      -
      - Guarantors_
    * - Filespin
-     - Filespin have gated the case studies I assisted with. An agency had made a start, but missed the mark. Selva asked me to rework the items.
+     - Filespin has gated the case studies I assisted with. An agency had made a start but missed the mark. Selva asked me to rework the items.
      - `filespin.io <https://filespin.io/>`_
    * - Podbean
-     - Podbean conducts regular podcast interviews as part of their marketing strategy. I write these up in a story telling/case study form
+     - Podbean conducts regular podcast interviews as part of its marketing strategy. I write these up in a storytelling/case study form.
      - Slalom_
    * -
      -
@@ -137,7 +192,7 @@ Case Studies
      - James_
    * -
      -
-     - There are more examples and the client relationship is ongoing
+     - There are more examples, and the client relationship is ongoing.
    * - Tangent Solutions
      - Tangent Solutions commissioned me to assist with their case studies. While they do use these to improve their SEO, their primary motivator is the annual Microsoft Awards entries.
      - BrandWorx_
@@ -155,9 +210,7 @@ Case Studies
      - COHRED_
    * -
      -
-     - There are more examples and the client relationship is ongoing
-
-
+     - There are more examples, and the client relationship is ongoing.
 
 
 Articles
@@ -170,17 +223,23 @@ Articles
    * - Client
      - About the gig
      - URL
+   * - Stark
+     - Stark has several product offerings, including StarkEx -- a Layer-2 scalability engine, live on Ethereum Mainnet. StarkEx updates are published both on-site and via Medium.
+     - StarkEx_
+   * -
+     -
+     - There are more examples, and the client relationship is ongoing.
    * - Lottie
-     - Lottie commissioned 2 "How to" articles to guide users to use their product in a React App
-     - Lottie_ articles
+     - Lottie commissioned 2 "How To" articles to guide users to use their product in a React App.
+     - Lottie_ article
    * - Tom Altman
-     - Tom commissioned an entry-level "What is blockchain" article
+     - Tom commissioned an entry-level "What is blockchain" article.
      - blockchain_
    * - Upstart Commerce
-     - Having cleaned up the API, Upstart commissioned the first article for their blog: an explainer of their product's rationale
+     - Having cleaned up the API, Upstart commissioned the first article for their blog: an explainer of their product's rationale.
      - product_ rationale
    * - Filespin
-     - Filespin's project required case studies, blog articles, and a website content review. Their product offering can support many sectors, they therefore, needed to improve their SEO for multiple keywords
+     - Filespin's project required case studies, blog articles, and a website content review. Their product offering can support many sectors; they, therefore, needed to improve their SEO for multiple keywords.
      - image_ delivery
    * -
      -
@@ -189,29 +248,28 @@ Articles
      -
      - shopping_ for a DAM
    * - Podbean
-     - Podbean engaged me to write case studies, but when a high value interview was passed my way I simply had to write it up in 2 formats, a blog and a case study. John was happy with the outcome
+     - Podbean engaged me to write case studies, but when a high-value interview was passed my way, I simply had to write it up in 2 formats; a blog and a case study. John was happy with the outcome
      - sticky_ listening
    * - oneclick
-     - oneclick provides cloud SaaS options in the European market, they have had me write several articles which are translated
+     - oneclick provides cloud SaaS options in the European market; they have had me write several articles which are translated into their target market languages.
      - Docker_
+   * - talent.io
+     - Talent.io, a recruitment platform, has created a novel marketing approach. They provide their recruits with conferencing and networking opportunities. They provide pre-retreat talks to warm up the enthusiasm. I was asked to convert a couple of these talks into short-form blog items.
+     - Bitcoin_Cryptography_
+   * -
+     -
+     - Feature_Development_
 
 
 Editing
 -------
 
-Books
-*****
-
-With a PhD in Biology and an undergraduate degree in parasitology, I guess it is no surprise that Daniel from `Parasites without Borders <http://parasiteswithoutborders.com/books/>`_ reached out to ask me to edit in the medical field. I still occasionally have time to assist with papers and PhD edits.
-
-This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for pronunciation guide, assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the pdf. Despite being a supported, paid for option, I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed. All in all a great experience.
-
 Web Content Review
 *******************
 
-Several clients have created cross-over projects along the lines of: "would you also be able to take a look at ...". Often this request includes a content review of existing or upcoming web content.
+Clients often have internal subject matter experts who write and need an editor to improve the copy prior to it going public.
 
-Alternatively, clients often have internal subject matter experts who write and want to improve the copy prior to it going public.
+Alternatively, clients often create cross-over projects along the lines of: "would you also be able to take a look at ...". Often, this request includes a content review of existing or upcoming web content.
 
 .. list-table:: Web Content & Article Editing
    :widths: 25 50 25
@@ -220,24 +278,32 @@ Alternatively, clients often have internal subject matter experts who write and 
    * - Client
      - About the gig
      - URL
-   * - Filespin
-     - As I was already aboard assisting with article creation and case studies, I guess it is was a no-brainer to ask me to review the web content for their re-launch
-     - `filespin.io <https://filespin.io/>`_
    * - Stark
-     - StarkWare is a startup in the blockchain space. I assist with editing their user documentation, articles, and the website content
-     - StarkWare_
-   * -
-     - StarkWare has several product offerings including StarkEx, and publishes both on-site and via Medium, e.g.
+     - In addition to editing articles and documentation for Stark, I also review the website content for their upcoming launch.
      - StarkEx_
    * -
      -
-     - There are more examples and the client relationship is ongoing
+     - There are more examples and the client relationship is ongoing.
+   * - Filespin
+     - As I was already aboard assisting with article creation and case studies, I guess it is was a no-brainer to ask me to review the web content for their relaunch
+     - `filespin.io <https://filespin.io/>`_
    * - e-CENS
-     - e-CENS assists clients with data analytics such as Google analytics and CRM product implementation such as Tealium. With English as a second language writers, I have assisted with numerous articles and supported e-CENS through a website relaunch
+     - e-CENS assists clients with data analytics such as Google Analytics and CRM product implementation such as Tealium. With English-as-a-second-language writers, I have assisted with numerous articles and supported e-CENS through a website relaunch.
      - ecens_
    * - Soho
-     - Soho Dragon are a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig, and with the client being unresponsive, put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations such as capacity statements for bids.
+     - Soho Dragon is a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig, and with the client being unresponsive, put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations, such as capacity statements for bids.
      - Soho_
+
+Books & Papers
+**************
+
+With a PhD. in Biology and an undergraduate degree in parasitology, I guess it is no surprise that Daniel from `Parasites without Borders <http://parasiteswithoutborders.com/books/>`_ reached out to ask me to edit in the medical field.
+
+This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for pronunciation guide, assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the pdf. Despite being a supported, paid for option, I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed -- all in all a great experience.
+
+I am the editor for several PhD.s and papers in the biology sphere. This is the sphere in which I cut my editorial teeth before I became focused on technical writing. For example, this paper_ in pharmacology.
+
+I was also involved in the NGO sector in South Africa. Here I assisted with research_ and editing_: especially the editing of data-driven reports.
 
 
 API Projects
@@ -246,7 +312,7 @@ API Projects
 Upstart Commerce
 ****************
 
-I cleaned up the YAML/Swagger to ensure that the API is described correctly and assists the user effectively. I also "proofed", i.e. I fixed those issues that effect quality such as ensuring consistency of the English language variant and style applied.
+I cleaned up the YAML/Swagger to ensure that the API is described correctly and assists the user effectively. I also "proofed", i.e. I fixed those issues that affect quality, such as ensuring consistency of the English language variant and style applied.
 
 Upstart_ Commerce have their Open API 3.0 documentation publicly available. This is one of the larger API sets that I cleaned up. Working with the Russian dev team across Slack, the docs are now fully compliant and consistent (US English).
 
@@ -265,25 +331,25 @@ These docs will be publicly available. The work-in-progress for smtp2go requires
 Cloud RF
 ********
 
-Cloud RF have the most specialized technical topic that I have covered thus far. My life experience has exposed me to eCommerce (Upstart), school administration (Faria), and email marketing (smtp2go). This eased my assisting clients in these areas. I do not, however, have radio mapping skills.
+Cloud RF has the most specialized technical topic that I have covered thus far. My life experience has exposed me to eCommerce (Upstart), school administration (Faria), and email marketing (smtp2go). This eased my assisting clients in these areas. I do not, however, have radio mapping skills.
 
 This knowledge challenge was not a barrier to my cleaning the API set and ensuring that it was compliant. It simply required a tighter coms cycle which we achieved using PR comments on GitHub.
 
 I did, however, step away from the high-level documentation as my naivety in Radio propagation mapping meant I was not the best person to provide the high-level docs. I set up the documentation site structure and the page structure and populated the pages with the base information and links. This left the client in a position to complete the high-level documentation internally.
 
-Cloud RFs API will be publicly available, in the meantime, I provide a brief introduction and exposed a cloudRF_ endpoint.
+Cloud RFs API will be publicly available, in the meantime, I provide a brief introduction and expose a cloudRF_ endpoint.
 
 
 Cybertonica
 ***********
 
-Cybertonica's API is private to their clients and for good reason. They are dealing in the world of threat analyses. I assisted with a high-level customer integration document for a REST and SOAP API pair that may be accessed directly from JS plugins.
+Cybertonica's API is private to their clients: for good reason. They are dealing in the world of threat analyses. I assisted with a high-level customer integration document for a REST and SOAP API pair that may be accessed directly from JS plugins.
 
 After that, I assisted with the API for the Shopify dashboard that provides similar threat analyses.
 
-I am not able to expose this project further!
+Working under an NDA, I am not able to expose this project further.
 
 Distributed Devs
 ****************
 
-Distributed Devs engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector. Again, I am under NDAs and can not expose more about this client!
+Distributed Devs engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector. Again, I am under NDAs and can not expose more about this client.
