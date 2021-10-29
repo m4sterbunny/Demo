@@ -18,3 +18,13 @@ Hosting [this page](https://rtd-gcp-cloud.readthedocs.io/en/latest/), this docum
 
 4. build by running `make html` on the master folder (1 level above source and build)
 
+
+
+## Helpful commands
+Been using environment setup [not python virtual environment](https://towardsdatascience.com/virtual-environments-104c62d48c54?gi=7a13b3263f84)
+
+`which sphinx-build` to see what executable is being called.
+
+`ls -l /usr/local/bin/sphinx-build`
+
+
