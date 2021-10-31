@@ -106,7 +106,7 @@ API Documentation
 
 .. topic:: Note
 
-  The link goes directly to an endpoint that I have edited/approved, but this is a living document that may have endpoints not handled by me!.
+  The link goes directly to an endpoint that I have edited/approved, but this is a living document that may have endpoints not handled by me!
 
 - Algopix_ (ditto the note above)
 - Faria_ private API docs
