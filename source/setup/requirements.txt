@@ -90,7 +90,7 @@ pyserial==3.4
 pytest==6.2.5
 pytest-asyncio==0.16.0
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.22.0
 requests-unixsocket==0.2.0
 rlp==2.0.1
