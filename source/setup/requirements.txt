@@ -17,7 +17,7 @@ configobj==5.0.6
 constantly==15.1.0
 cryptography==3.3.2
 cytoolz==0.11.0
-dbus-1 >= 1.8
+dbus-1>= 1.8
 dbus-python==1.2.18
 docutils==0.16
 ecdsa==0.17.0
