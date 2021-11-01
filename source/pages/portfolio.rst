@@ -319,14 +319,14 @@ Upstart_ Commerce have their Open API 3.0 documentation publicly available. This
 Faria
 *****
 
-The largest API set that I have cleaned is for Faria, for whom I cleaned multiple APIs. There is no intention to make these API documents publicly available. I have, therefore, provided a brief introduction and exposed the smallest possible Faria_ endpoint.
+The largest API set that I have cleaned is for Faria, for whom I cleaned multiple APIs. There is no intention to make these API documents publicly available. I have, therefore, provided a brief introduction and provide the smallest possible Faria_ endpoint specification.
 
 The docs are now fully compliant and consistent (US English for the APIs, UK English for the high-level client support documentation).
 
 SMTP2GO
 *******
 
-These docs will be publicly available. The work-in-progress for smtp2go requires further frontend work. In the meantime, I provided a brief introduction and exposed an smtp2go_ endpoint.
+These docs will be publicly available. The work-in-progress for smtp2go requires further frontend work. In the meantime, I provided a brief introduction and an smtp2go_ endpoint specification.
 
 Cloud RF
 ********
@@ -337,7 +337,7 @@ This knowledge challenge was not a barrier to my cleaning the API set and ensuri
 
 I did, however, step away from the high-level documentation as my naivety in Radio propagation mapping meant I was not the best person to provide the high-level docs. I set up the documentation site structure and the page structure and populated the pages with the base information and links. This left the client in a position to complete the high-level documentation internally.
 
-Cloud RFs API will be publicly available, in the meantime, I provide a brief introduction and expose a cloudRF_ endpoint.
+Cloud RFs API will be publicly available, in the meantime, I provide a brief introduction and describe a cloudRF_ endpoint.
 
 
 Cybertonica
@@ -352,4 +352,4 @@ Working under an NDA, I am not able to expose this project further.
 Distributed Devs
 ****************
 
-Distributed Devs engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector. Again, I am under NDAs and can not expose more about this client.
+Distributed Devs engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector applying AI tools on insurance claims. Again, I am under NDAs and can not expose more about this client.
