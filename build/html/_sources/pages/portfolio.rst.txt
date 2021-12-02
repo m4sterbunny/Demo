@@ -14,6 +14,10 @@ Technical Writing Showcase
 
 .. _cloudrf: https://m4sterbunny.github.io/build/#client-1-cloud-rf
 
+.. _Caredove: https://www.caredove.com/
+
+.. _caredoveAPI: https://developer.caredove.com/docs/api-documentation/
+
 .. _lottie: https://lottiefiles.com/blog/working-with-lottie/how-to-use-lottie-in-react-app
 
 .. _blockchain: http://tomaltman.com/brave-new-blockchain-world/
@@ -120,11 +124,11 @@ User Guide Documentation
 
 Of all the material I create, user documentation is probably the most likely not to be publicly accessible.
 
-This SaaS documentation item is in review, and is exposed from my account (with permission). It was written in Markdown in GitBook:
+This SaaS documentation item is in review and is exposed from my account (with permission). It was written in Markdown in GitBook:
 
 - Allelica_
 
-I often create the high-level documentation to assist users to understand the use cases for the API specification that I have created or edited. Such as this `high-level documentation for Algopix <Algopix_HighLevel_>`_.
+I often create high-level documentation to assist user understanding of the use cases for the API specification that I have created or edited. Such as this `high-level documentation for Algopix <Algopix_HighLevel_>`_.
 
 Not only do I create user guides from scratch, but I also assist with editing the existing documents:
 
@@ -139,11 +143,17 @@ Not only do I create user guides from scratch, but I also assist with editing th
      - Stark_ is a startup in the blockchain space. I assist with editing their user documentation, articles, and website content. For example, I am currently editing the existing StarkEx documentation (written in Markdown in GitBook).
      - StarkExV3_
    * -
-     - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently editing the existing documentation (written in reStructured text).
+     - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently `editing the existing documentation <Editing_>` (written in reStructured text).
      - Cairo_
    * - Braze
      - Braze provides a full-service marketing SaaS. They needed someone to update their documentation to align it with their new style guide (written in Markdown).
      - Braze_
+
+Overhauling Documentation
+*************************
+
+Documentation editing requires a careful touch. There may be existing style guides to apply, or only an emergent beginnings of a style to extract, cement, and then apply. The existing structure, for example, may not be up for negotiation.
+
 
 Installation Guide
 ------------------
@@ -164,7 +174,7 @@ Case Studies
      - About the gig
      - URL
    * - Reustle
-     - Reustle are a software development house. I have assisted with several case studies and several bids.
+     - Reustle is a software development house. I have assisted with several case studies and several bids.
      - JGC_
    * -
      -
@@ -213,8 +223,8 @@ Case Studies
      - There are more examples, and the client relationship is ongoing.
 
 
-Articles
----------
+Writing Articles
+----------------
 
 .. list-table:: Articles
    :widths: 25 50 25
@@ -223,12 +233,6 @@ Articles
    * - Client
      - About the gig
      - URL
-   * - Stark
-     - Stark has several product offerings, including StarkEx -- a Layer-2 scalability engine, live on Ethereum Mainnet. StarkEx updates are published both on-site and via Medium.
-     - StarkEx_
-   * -
-     -
-     - There are more examples, and the client relationship is ongoing.
    * - Lottie
      - Lottie commissioned 2 "How To" articles to guide users to use their product in a React App.
      - Lottie_ article
@@ -261,11 +265,8 @@ Articles
      - Feature_Development_
 
 
-Editing
--------
-
-Web Content Review
-*******************
+Content Review
+***************
 
 Clients often have internal subject matter experts who write and need an editor to improve the copy prior to it going public.
 
@@ -279,16 +280,16 @@ Alternatively, clients often create cross-over projects along the lines of: "wou
      - About the gig
      - URL
    * - Stark
-     - In addition to editing articles and documentation for Stark, I also review the website content for their upcoming launch.
-     - StarkEx_
+     - In addition to editing articles and documentation for Stark, I also review the website content for their upcoming launch. Stark has several product offerings, including StarkEx -- a Layer-2 scalability engine, live on Ethereum Mainnet. Stark updates are published both on-site and via Medium.
+     - Stark_
    * -
-     -
-     - There are more examples and the client relationship is ongoing.
+     - `Redefining scalability <https://medium.com/starkware/redefining-scalability-5aa11ffc5880>`_, `StarkNet Alpha live <https://medium.com/starkware/starknet-alpha-now-on-mainnet-4cf35efd1669>`_, StarkEx_
+     - There are more examples, and the client relationship is ongoing.
    * - Filespin
      - As I was already aboard assisting with article creation and case studies, I guess it is was a no-brainer to ask me to review the web content for their relaunch
      - `filespin.io <https://filespin.io/>`_
    * - e-CENS
-     - e-CENS assists clients with data analytics such as Google Analytics and CRM product implementation such as Tealium. With English-as-a-second-language writers, I have assisted with numerous articles and supported e-CENS through a website relaunch.
+     - e-CENS assists clients with data analytics such as Google Analytics and CRM product implementation such as Tealium. With English-as-a-second-language writers, I have assisted with several articles and supported e-CENS through a website relaunch.
      - ecens_
    * - Soho
      - Soho Dragon is a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig, and with the client being unresponsive, put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations, such as capacity statements for bids.
@@ -299,12 +300,11 @@ Books & Papers
 
 With a PhD. in Biology and an undergraduate degree in parasitology, I guess it is no surprise that Daniel from `Parasites without Borders <http://parasiteswithoutborders.com/books/>`_ reached out to ask me to edit in the medical field.
 
-This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for pronunciation guide, assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the pdf. Despite being a supported, paid for option, I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed -- all in all a great experience.
+This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for pronunciation guide, assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the pdf. Despite being a supported, paid-for option, I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed -- all in all, a great experience.
 
-I am the editor for several PhD.s and papers in the biology sphere. This is the sphere in which I cut my editorial teeth before I became focused on technical writing. For example, this paper_ in pharmacology.
+I am the editor for several PhD.s and papers in the biology sphere. This is where I cut my editorial teeth before I became focused on technical writing -- for example, this paper_ in pharmacology.
 
 I was also involved in the NGO sector in South Africa. Here I assisted with research_ and editing_: especially the editing of data-driven reports.
-
 
 API Projects
 ------------
@@ -319,14 +319,14 @@ Upstart_ Commerce have their Open API 3.0 documentation publicly available. This
 Faria
 *****
 
-The largest API set that I have cleaned is for Faria, for whom I cleaned multiple APIs. There is no intention to make these API documents publicly available. I have, therefore, provided a brief introduction and exposed the smallest possible Faria_ endpoint.
+The largest API set that I have cleaned is for Faria, for whom I cleaned multiple APIs. There is no intention to make these API documents publicly available. I have, therefore, provided a brief introduction and provide the smallest possible Faria_ endpoint specification.
 
 The docs are now fully compliant and consistent (US English for the APIs, UK English for the high-level client support documentation).
 
 SMTP2GO
 *******
 
-These docs will be publicly available. The work-in-progress for smtp2go requires further frontend work. In the meantime, I provided a brief introduction and exposed an smtp2go_ endpoint.
+These docs will be publicly available. The work-in-progress for smtp2go requires further frontend work. In the meantime, I provided a brief introduction and a smtp2go_ endpoint specification.
 
 Cloud RF
 ********
@@ -337,7 +337,7 @@ This knowledge challenge was not a barrier to my cleaning the API set and ensuri
 
 I did, however, step away from the high-level documentation as my naivety in Radio propagation mapping meant I was not the best person to provide the high-level docs. I set up the documentation site structure and the page structure and populated the pages with the base information and links. This left the client in a position to complete the high-level documentation internally.
 
-Cloud RFs API will be publicly available, in the meantime, I provide a brief introduction and expose a cloudRF_ endpoint.
+Cloud RFs API will be publicly available, in the meantime, I provide a brief introduction and describe a cloudRF_ endpoint.
 
 
 Cybertonica
@@ -352,4 +352,30 @@ Working under an NDA, I am not able to expose this project further.
 Distributed Devs
 ****************
 
-Distributed Devs engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector. Again, I am under NDAs and can not expose more about this client.
+Distributed Devs engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector applying AI tools on insurance claims. Again, I am under NDAs and can not expose more about this client.
+
+Caredove
+********
+
+Caredove_ engaged me to take over an API specification project (caredoveAPI_). Caredove supports healthcare providers with a referral management system. The repo was in GitLab, and the spec rendered in Stoplight using JSON files. The original writer had been handed Postman tests and constructed the spec from the JSON.
+
+To ensure that I did not interfere with existing users of the documentation, and to take advantage of Stoplight's rendering of tags, I converted the JSON spec to a YAML file and worked that.
+
+The YAML did not adhere to Open API 3.0 specification, so I used Spectral and Swagger's editor to identify issues and fix them. For example, one endpoint had multiple functions -- dependent upon the payload sent. I removed the previous writer's "fix" (to present the path twice, once with a trailing /) and provided links from the specification to high-level documentation to support the user in understanding how the endpoint functioned and what payloads to provide.
+
+Once the YAML could be consumed and rendered by Stoplight, I built up what I called pseudo-schemas. These schemas reflected example JSON payloads for endpoints that were missing their specification details. The reason I called them pseudo-schemas on each PR is that I am not a dev; I am a writer and, as such, believe that these should be validated (ideally by mocking a request with them; I didn't have my own authentication).
+
+I also mapped the relevant fields of these schemas back to the `FHIR specification <https://www.hl7.org/fhir/datatypes.html>_` that this endpoint is compliant with.
+
+Dairy Vets
+**********
+
+Dairy Vets had a non-compliant API and were keen to get it to render in Redoc.ly. I worked it through Redoc.ly's linter (with the lint requirements customised to "minimal") until it was compliant enough to render. Where compromises were made to achieve this, I logged "conversations" on the PR in GitHub to prevent any issues being dropped.
+
+
+
+
+
+
+
+
