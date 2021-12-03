@@ -365,7 +365,7 @@ The YAML did not adhere to Open API 3.0 specification, so I used Spectral and Sw
 
 Once the YAML could be consumed and rendered by Stoplight, I built up what I called pseudo-schemas. These schemas reflected example JSON payloads for endpoints that were missing their specification details. The reason I called them pseudo-schemas on each PR is that I am not a dev; I am a writer and, as such, believe that these should be validated (ideally by mocking a request with them; I didn't have my own authentication).
 
-I also mapped the relevant fields of these schemas back to the `FHIR specification <https://www.hl7.org/fhir/datatypes.html>_` that this endpoint is compliant with.
+I also mapped the relevant fields of these schemas back to the `FHIR specification <https://www.hl7.org/fhir/datatypes.html>`_ that this endpoint is compliant with.
 
 Dairy Vets
 **********
