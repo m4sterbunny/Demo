@@ -10,7 +10,7 @@ Technical Writing Showcase
 
 .. _Faria: https://m4sterbunny.github.io/build/#client-3-faria
 
-.. _smtp2go: https://m4sterbunny.github.io/build/#client-2-smtp2go
+.. _smtp2go: https://smtp2go.github.io/smtp2go.apidocs/#smtp2go-api
 
 .. _cloudrf: https://m4sterbunny.github.io/build/#client-1-cloud-rf
 
@@ -52,7 +52,7 @@ Technical Writing Showcase
 
 .. _BrandWorx: https://tangentsolutions.co.za/case-studies/brandworx-2021/
 
-.. _KPA: https://tangentsolutions.co.za/case-studies/Kenya-Ports-Authority%20/
+.. _KPA: https://tangentsolutions.co.za/case_studies/kenya-ports-authority/
 
 .. _Equity: https://tangentsolutions.co.za/case-studies/Equity-Bank/
 
@@ -106,7 +106,8 @@ Showcasing can be a challenge. Many clients have access management, meaning that
 API Documentation
 -----------------
 
-- Upstart_ Commerce
+- smtp2go_: Bulk email manager API
+- Upstart_ Commerce: Ecommerce API
 
 .. topic:: Note
 
@@ -114,7 +115,6 @@ API Documentation
 
 - Algopix_ (ditto the note above)
 - Faria_ private API docs
-- smtp2go_ wip API (will be public)
 - cloudRF_ wip API (will be public)
 
 See more about these :ref:`API projects` and others below.
@@ -326,7 +326,7 @@ The docs are now fully compliant and consistent (US English for the APIs, UK Eng
 SMTP2GO
 *******
 
-These docs will be publicly available. The work-in-progress for smtp2go requires further frontend work. In the meantime, I provided a brief introduction and a smtp2go_ endpoint specification.
+Initially, the documentation site was built in Redoc.ly. I edited and augmented the existing specification by working directly with the YAML. The team then moved to the single page site builder Slate. I worked with the developers across Asana, Slack, and GitHub until we had the functionality they required. The smtp2go_ documentation is now live.
 
 Cloud RF
 ********

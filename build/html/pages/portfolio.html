@@ -40,7 +40,8 @@
 <div class="section" id="api-documentation">
 <h2>API Documentation<a class="headerlink" href="#api-documentation" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li><p><a class="reference external" href="https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card">Upstart</a> Commerce</p></li>
+<li><p><a class="reference external" href="https://smtp2go.github.io/smtp2go.apidocs/#smtp2go-api">smtp2go</a>: Bulk email manager API</p></li>
+<li><p><a class="reference external" href="https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card">Upstart</a> Commerce: Ecommerce API</p></li>
 </ul>
 <div class="topic">
 <p class="topic-title">Note</p>
@@ -49,7 +50,6 @@
 <ul class="simple">
 <li><p><a class="reference external" href="https://docs.algopix.com/docs/algopix-api-documentation/b3A6MTgwOTAyOTQ-request-products-analysis">Algopix</a> (ditto the note above)</p></li>
 <li><p><a class="reference external" href="https://m4sterbunny.github.io/build/#client-3-faria">Faria</a> private API docs</p></li>
-<li><p><a class="reference external" href="https://m4sterbunny.github.io/build/#client-2-smtp2go">smtp2go</a> wip API (will be public)</p></li>
 <li><p><a class="reference external" href="https://m4sterbunny.github.io/build/#client-1-cloud-rf">cloudRF</a> wip API (will be public)</p></li>
 </ul>
 <p>See more about these <a class="reference internal" href="#api-projects"><span class="std std-ref">API Projects</span></a> and others below.</p>
@@ -163,7 +163,7 @@
 </tr>
 <tr class="row-odd"><td></td>
 <td></td>
-<td><p><a class="reference external" href="https://tangentsolutions.co.za/case-studies/Kenya-Ports-Authority%20/">KPA</a></p></td>
+<td><p><a class="reference external" href="https://tangentsolutions.co.za/case_studies/kenya-ports-authority/">KPA</a></p></td>
 </tr>
 <tr class="row-even"><td></td>
 <td></td>
@@ -305,7 +305,7 @@
 </div>
 <div class="section" id="id3">
 <h3>SMTP2GO<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h3>
-<p>These docs will be publicly available. The work-in-progress for smtp2go requires further frontend work. In the meantime, I provided a brief introduction and a <a class="reference external" href="https://m4sterbunny.github.io/build/#client-2-smtp2go">smtp2go</a> endpoint specification.</p>
+<p>Initially, the documentation site was built in Redoc.ly. I edited and augmented the existing specification by working directly with the YAML. The team then moved to the single page site builder Slate. I worked with the developers across Asana, Slack, and GitHub until we had the functionality they required. The <a class="reference external" href="https://smtp2go.github.io/smtp2go.apidocs/#smtp2go-api">smtp2go</a> documentation is now live.</p>
 </div>
 <div class="section" id="cloud-rf">
 <h3>Cloud RF<a class="headerlink" href="#cloud-rf" title="Permalink to this headline">¶</a></h3>
@@ -330,7 +330,7 @@
 <p>To ensure that I did not interfere with existing users of the documentation, and to take advantage of Stoplight’s rendering of tags, I converted the JSON spec to a YAML file and worked that.</p>
 <p>The YAML did not adhere to Open API 3.0 specification, so I used Spectral and Swagger’s editor to identify issues and fix them. For example, one endpoint had multiple functions – dependent upon the payload sent. I removed the previous writer’s “fix” (to present the path twice, once with a trailing /) and provided links from the specification to high-level documentation to support the user in understanding how the endpoint functioned and what payloads to provide.</p>
 <p>Once the YAML could be consumed and rendered by Stoplight, I built up what I called pseudo-schemas. These schemas reflected example JSON payloads for endpoints that were missing their specification details. The reason I called them pseudo-schemas on each PR is that I am not a dev; I am a writer and, as such, believe that these should be validated (ideally by mocking a request with them; I didn’t have my own authentication).</p>
-<p>I also mapped the relevant fields of these schemas back to the <cite>FHIR specification &lt;https://www.hl7.org/fhir/datatypes.html&gt;_</cite> that this endpoint is compliant with.</p>
+<p>I also mapped the relevant fields of these schemas back to the <a class="reference external" href="https://www.hl7.org/fhir/datatypes.html">FHIR specification</a> that this endpoint is compliant with.</p>
 </div>
 <div class="section" id="dairy-vets">
 <h3>Dairy Vets<a class="headerlink" href="#dairy-vets" title="Permalink to this headline">¶</a></h3>
