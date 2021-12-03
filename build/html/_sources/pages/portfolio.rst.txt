@@ -113,16 +113,16 @@ API Documentation
 
   The link goes directly to an endpoint that I have edited/approved, but this is a living document that may have endpoints not handled by me!
 
-- Algopix_ (ditto the note above)
-- Faria_ private API docs
-- cloudRF_ wip API (will be public)
+- Algopix_ (ditto the note above): Product research API
+- Faria_ private API docs: Education management system API
+- cloudRF_ wip API (will be public): Radio installation planning API
 
 See more about these :ref:`API projects` and others below.
 
 User Guide Documentation
 ------------------------
 
-Of all the material I create, user documentation is probably the most likely not to be publicly accessible.
+Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructued text), making use of the glossary feature offered by Read the Docs. I provided annotated screen shots and detailed the funtion of various toolsets.
 
 This SaaS documentation item is in review and is exposed from my account (with permission). It was written in Markdown in GitBook:
 
@@ -143,7 +143,7 @@ Not only do I create user guides from scratch, but I also assist with editing th
      - Stark_ is a startup in the blockchain space. I assist with editing their user documentation, articles, and website content. For example, I am currently editing the existing StarkEx documentation (written in Markdown in GitBook).
      - StarkExV3_
    * -
-     - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently `editing the existing documentation <Editing_>` (written in reStructured text).
+     - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently editing a section of the existing documentation (written in reStructured text).
      - Cairo_
    * - Braze
      - Braze provides a full-service marketing SaaS. They needed someone to update their documentation to align it with their new style guide (written in Markdown).
