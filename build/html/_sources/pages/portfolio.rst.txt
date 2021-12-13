@@ -200,9 +200,6 @@ Case Studies
    * -
      -
      - James_
-   * -
-     -
-     - There are more examples, and the client relationship is ongoing.
    * - Tangent Solutions
      - Tangent Solutions commissioned me to assist with their case studies. While they do use these to improve their SEO, their primary motivator is the annual Microsoft Awards entries.
      - BrandWorx_
@@ -218,9 +215,6 @@ Case Studies
    * -
      -
      - COHRED_
-   * -
-     -
-     - There are more examples, and the client relationship is ongoing.
 
 
 Writing Articles
