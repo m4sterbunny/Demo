@@ -94,6 +94,6 @@ Skills
    * - Experience with Photoshop or other image editing software.
      - While I do have some Photoshop experience, I don't spend money on Adobe. My clients occasionally do. For user documentation and image annotation, I have some very simple (and free) tooling options. But, telling you more would be giving away some of my trade secrets and hmm, I haven't even met you yet.
    * - Game development experience and/or a passion for games.
-     - With regards to your games, I know them vicariously (it is my man that loves them). Personally, I sit too much for work to sit some more for fun. To unwind, I get out, I exercise, I talk to people.
+     - With regards to your games, I know them vicariously (it is my man that loves them). Personally, I sit too much for work to sit some more for fun. To unwind, I get out, I exercise, I talk to people. When I do sit and relax, I am probably consuming SciFi!
 
 
