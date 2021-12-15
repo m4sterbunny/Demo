@@ -98,10 +98,8 @@ Technical Writing Showcase
 
 .. _editing: https://drive.google.com/file/d/1g0CogthUGGJ1sEZw43XeOqQwQ9AgOXIs/view
 
-Documentation
--------------
 
-Showcasing can be a challenge. Many clients have access management, meaning that the documentation I assisted with is only available to their clients. Happily, there are some examples in the "wild" that are publicly available.
+Showcasing can be a challenge. Many clients have access management, meaning that the documentation I assisted with is only available to their clients. Some clients want to keep their writer as a secret, and never admit that they brought in a freelancer (such as my whitepaper client). Happily, there are some examples in the "wild" that are publicly available.
 
 .. topic:: Contents
 
