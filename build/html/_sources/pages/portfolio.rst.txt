@@ -103,6 +103,20 @@ Documentation
 
 Showcasing can be a challenge. Many clients have access management, meaning that the documentation I assisted with is only available to their clients. Happily, there are some examples in the "wild" that are publicly available.
 
+.. topic:: Contents
+
+    :ref:`API Docs <API Documentation>`
+
+    :ref:`User Docs <User Guide Documentation>`
+
+    :ref:`Installation <Installation Guide>`
+
+    :ref:`Case Studies <Case Studies>`
+
+    :ref:`Articles <Writing Articles>`
+
+    :ref:`Editing <Content Review>`
+
 API Documentation
 -----------------
 
