@@ -297,8 +297,8 @@ Alternatively, clients create cross-over projects along the lines of: "would you
    * - Cairo
      - Stark applies its own programming language to provide cryptographic proofs to enable users to record the results of computations on a blockchain. I proofed the white paper.
      - whitepaper_
-   * - In addition to editing articles and documentation for Stark, I also reviewed the website content for their launch. Stark has several product offerings, including StarkEx -- a Layer-2 scalability engine, live on Ethereum Mainnet.
-     - There are more examples, and the client relationship is ongoing.
+   * -
+     - In addition to editing articles and documentation for Stark, I also reviewed the website content for their launch. Stark has several product offerings, including StarkEx -- a Layer-2 scalability engine, live on Ethereum Mainnet.
      - Stark_
    * - Filespin
      - As I was already aboard assisting with article creation and case studies, I guess it is was a no-brainer to ask me to review the web content for their relaunch
