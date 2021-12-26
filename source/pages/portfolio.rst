@@ -98,8 +98,14 @@ Technical Writing Showcase
 
 .. _editing: https://drive.google.com/file/d/1g0CogthUGGJ1sEZw43XeOqQwQ9AgOXIs/view
 
+.. _whitepaper: https://eprint.iacr.org/2021/1063.pdf
 
-Showcasing can be a challenge. Many clients have access management, meaning that the documentation I assisted with is only available to their clients. Some clients want to keep their writer as a secret, and never admit that they brought in a freelancer (such as my whitepaper client). Happily, there are some examples in the "wild" that are publicly available.
+
+Showcasing can be a challenge. Many clients have access management, meaning that the documentation I assisted with is only available to their clients.
+
+Some clients want to keep their writer a secret and never admit that they brought in a freelancer, or they do not want to admit your contribution. I learnt this early in my consulting career when I undertook a large report triage project in which I brought in an analyst to conduct the statistics and a researcher to verify the quoted data. I personally compiled and edited the report and wrote entire sections, including the recommendations, and my acknowledged role: editor! Sometimes it is simply too politically delicate to admit why you needed your freelancer.
+
+Thankfully not all clients are complicated and there are some examples in the "wild" that are publicly available.
 
 .. topic:: Contents
 
@@ -274,9 +280,9 @@ Writing Articles
 Content Review
 ***************
 
-Clients often have internal subject matter experts who write and need an editor to improve the copy prior to it going public.
+Clients often have internal subject matter experts who write and need an edit/proof to improve the copy prior to it going public.
 
-Alternatively, clients often create cross-over projects along the lines of: "would you also be able to take a look at ...". Often, this request includes a content review of existing or upcoming web content.
+Alternatively, clients create cross-over projects along the lines of: "would you also be able to take a look at ...". Typically, this request includes a content review of existing or upcoming web content.
 
 .. list-table:: Web Content & Article Editing
    :widths: 25 50 25
@@ -288,6 +294,9 @@ Alternatively, clients often create cross-over projects along the lines of: "wou
    * - Stark
      - In addition to editing articles and documentation for Stark, I also review the website content for their upcoming launch. Stark has several product offerings, including StarkEx -- a Layer-2 scalability engine, live on Ethereum Mainnet. Stark updates are published both on-site and via Medium.
      - Stark_
+   * - Cairo
+     - Stark applies its own programming language to provide cryptographic proofs to enable users to record the results of computations on a blockchain. I proofed the white paper.
+     - whitepaper_
    * -
      - `Redefining scalability <https://medium.com/starkware/redefining-scalability-5aa11ffc5880>`_, `StarkNet Alpha live <https://medium.com/starkware/starknet-alpha-now-on-mainnet-4cf35efd1669>`_, StarkEx_
      - There are more examples, and the client relationship is ongoing.
