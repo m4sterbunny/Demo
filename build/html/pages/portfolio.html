@@ -14,7 +14,6 @@
     <script src="../_static/doctools.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Demos" href="demo_items.html" />
     <link rel="prev" title="Welcome to Harrie’s Showcase" href="../index.html" />
    
   <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
@@ -33,9 +32,6 @@
 <h1>Technical Writing Showcase<a class="headerlink" href="#technical-writing-showcase" title="Permalink to this headline">¶</a></h1>
 <div class="toctree-wrapper compound">
 </div>
-<p>Showcasing can be a challenge. Many clients have access management, meaning that the documentation I assisted with is only available to their clients.</p>
-<p>Some clients want to keep their writer a secret and never admit that they brought in a freelancer, or they do not want to admit your contribution. I learnt this early in my consulting career when I undertook a large report triage project in which I brought in an analyst to conduct the statistics and a researcher to verify the quoted data. I personally compiled and edited the report and wrote entire sections, including the recommendations, and my acknowledged role: editor! Sometimes it is simply too politically delicate to admit why you needed your freelancer.</p>
-<p>Thankfully not all clients are complicated and there are some examples in the “wild” that are publicly available.</p>
 <div class="topic">
 <p class="topic-title">Contents</p>
 <p><a class="reference internal" href="#api-documentation"><span class="std std-ref">API Docs</span></a></p>
@@ -313,9 +309,9 @@
 </div>
 <div class="section" id="cloud-rf">
 <h3>Cloud RF<a class="headerlink" href="#cloud-rf" title="Permalink to this headline">¶</a></h3>
-<p>Cloud RF has the most specialized technical topic that I have covered thus far. My life experience has exposed me to eCommerce (Upstart), school administration (Faria), and email marketing (smtp2go). This eased my assisting clients in these areas. I do not, however, have radio mapping skills.</p>
+<p>Cloud RF has the most specialized technical topic that I have covered thus far. Other API gigs were fairly unspecialised by comparison eCommerce (Upstart), school administration (Faria), and email marketing (smtp2go). I do not, however, have radio mapping skills.</p>
 <p>This knowledge challenge was not a barrier to my cleaning the API set and ensuring that it was compliant. It simply required a tighter coms cycle which we achieved using PR comments on GitHub.</p>
-<p>I did, however, step away from the high-level documentation as my naivety in Radio propagation mapping meant I was not the best person to provide the high-level docs. I set up the documentation site structure and the page structure and populated the pages with the base information and links. This left the client in a position to complete the high-level documentation internally.</p>
+<p>I did, however, step away from the high-level documentation, which was initially going to be part of the gig, as my naivety in Radio propagation mapping meant I did not feel I was the best person to provide the high-level docs. I set up the documentation site structure and the page structure and populated the pages with the base information and links. This left the client in a position to complete the high-level documentation internally.</p>
 <p>Cloud RFs API will be publicly available, in the meantime, I provide a brief introduction and describe a <a class="reference external" href="https://m4sterbunny.github.io/build/#client-1-cloud-rf">cloudRF</a> endpoint.</p>
 </div>
 <div class="section" id="cybertonica">
@@ -324,14 +320,18 @@
 <p>After that, I assisted with the API for the Shopify dashboard that provides similar threat analyses.</p>
 <p>Working under an NDA, I am not able to expose this project further.</p>
 </div>
+<div class="section" id="moola">
+<h3>Moola<a class="headerlink" href="#moola" title="Permalink to this headline">¶</a></h3>
+<p>Moola support several financial services products. While the API is currently for internal use only, they hope to market the product. I am cleaning up the documentation by working with the Indian development team.</p>
+</div>
 <div class="section" id="distributed-devs">
 <h3>Distributed Devs<a class="headerlink" href="#distributed-devs" title="Permalink to this headline">¶</a></h3>
-<p>Distributed Devs engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector applying AI tools on insurance claims. Again, I am under NDAs and can not expose more about this client.</p>
+<p>Distributed Devs, a British team, engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector applying AI tools on insurance claims. Again, I am under NDAs and can not expose more about this client.</p>
 </div>
 <div class="section" id="id4">
 <h3>Caredove<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h3>
-<p><a class="reference external" href="https://www.caredove.com/">Caredove</a> engaged me to take over an API specification project (<a class="reference external" href="https://developer.caredove.com/docs/api-documentation/">caredoveAPI</a>). Caredove supports healthcare providers with a referral management system. The repo was in GitLab, and the spec rendered in Stoplight using JSON files. The original writer had been handed Postman tests and constructed the spec from the JSON.</p>
-<p>To ensure that I did not interfere with existing users of the documentation, and to take advantage of Stoplight’s rendering of tags, I converted the JSON spec to a YAML file and worked that.</p>
+<p><a class="reference external" href="https://www.caredove.com/">Caredove</a> engaged me to take over an API specification project (<a class="reference external" href="https://developer.caredove.com/docs/api-documentation/">caredoveAPI</a>). Caredove supports Canadian healthcare providers with a referral management system. The repo was in GitLab, and the spec rendered in Stoplight using JSON files. The original writer had been handed Postman tests and constructed the spec from the JSON.</p>
+<p>To ensure that I did not interfere with existing users of the documentation, and to take advantage of Stoplight’s rendering of tags, I converted the JSON spec to a YAML file and worked that while retaining the JSON docs.</p>
 <p>The YAML did not adhere to Open API 3.0 specification, so I used Spectral and Swagger’s editor to identify issues and fix them. For example, one endpoint had multiple functions – dependent upon the payload sent. I removed the previous writer’s “fix” (to present the path twice, once with a trailing /) and provided links from the specification to high-level documentation to support the user in understanding how the endpoint functioned and what payloads to provide.</p>
 <p>Once the YAML could be consumed and rendered by Stoplight, I built up what I called pseudo-schemas. These schemas reflected example JSON payloads for endpoints that were missing their specification details. The reason I called them pseudo-schemas on each PR is that I am not a dev; I am a writer and, as such, believe that these should be validated (ideally by mocking a request with them; I didn’t have my own authentication).</p>
 <p>I also mapped the relevant fields of these schemas back to the <a class="reference external" href="https://www.hl7.org/fhir/datatypes.html">FHIR specification</a> that this endpoint is compliant with.</p>
@@ -362,7 +362,6 @@
 <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Technical Writing Showcase</a></li>
-<li class="toctree-l1"><a class="reference internal" href="demo_items.html">Demos</a></li>
 </ul>
 
 <div class="relations">
@@ -370,7 +369,6 @@
 <ul>
   <li><a href="../index.html">Documentation overview</a><ul>
       <li>Previous: <a href="../index.html" title="previous chapter">Welcome to Harrie’s Showcase</a></li>
-      <li>Next: <a href="demo_items.html" title="next chapter">Demos</a></li>
   </ul></li>
 </ul>
 </div>
