@@ -341,11 +341,11 @@ Initially, the documentation site was built in Redoc.ly. I edited and augmented 
 Cloud RF
 ********
 
-Cloud RF has the most specialized technical topic that I have covered thus far. My life experience has exposed me to eCommerce (Upstart), school administration (Faria), and email marketing (smtp2go). This eased my assisting clients in these areas. I do not, however, have radio mapping skills.
+Cloud RF has the most specialized technical topic that I have covered thus far. Other API gigs were fairly unspecialised by comparison eCommerce (Upstart), school administration (Faria), and email marketing (smtp2go). I do not, however, have radio mapping skills.
 
 This knowledge challenge was not a barrier to my cleaning the API set and ensuring that it was compliant. It simply required a tighter coms cycle which we achieved using PR comments on GitHub.
 
-I did, however, step away from the high-level documentation as my naivety in Radio propagation mapping meant I was not the best person to provide the high-level docs. I set up the documentation site structure and the page structure and populated the pages with the base information and links. This left the client in a position to complete the high-level documentation internally.
+I did, however, step away from the high-level documentation, which was initially going to be part of the gig, as my naivety in Radio propagation mapping meant I did not feel I was the best person to provide the high-level docs. I set up the documentation site structure and the page structure and populated the pages with the base information and links. This left the client in a position to complete the high-level documentation internally.
 
 Cloud RFs API will be publicly available, in the meantime, I provide a brief introduction and describe a cloudRF_ endpoint.
 
@@ -359,17 +359,23 @@ After that, I assisted with the API for the Shopify dashboard that provides simi
 
 Working under an NDA, I am not able to expose this project further.
 
+Moola
+*****
+
+Moola support several financial services products. While the API is currently for internal use only, they hope to market the product. I am cleaning up the documentation by working with the Indian development team.
+
+
 Distributed Devs
 ****************
 
-Distributed Devs engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector applying AI tools on insurance claims. Again, I am under NDAs and can not expose more about this client.
+Distributed Devs, a British team, engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector applying AI tools on insurance claims. Again, I am under NDAs and can not expose more about this client.
 
 Caredove
 ********
 
-Caredove_ engaged me to take over an API specification project (caredoveAPI_). Caredove supports healthcare providers with a referral management system. The repo was in GitLab, and the spec rendered in Stoplight using JSON files. The original writer had been handed Postman tests and constructed the spec from the JSON.
+Caredove_ engaged me to take over an API specification project (caredoveAPI_). Caredove supports Canadian healthcare providers with a referral management system. The repo was in GitLab, and the spec rendered in Stoplight using JSON files. The original writer had been handed Postman tests and constructed the spec from the JSON.
 
-To ensure that I did not interfere with existing users of the documentation, and to take advantage of Stoplight's rendering of tags, I converted the JSON spec to a YAML file and worked that.
+To ensure that I did not interfere with existing users of the documentation, and to take advantage of Stoplight's rendering of tags, I converted the JSON spec to a YAML file and worked that while retaining the JSON docs.
 
 The YAML did not adhere to Open API 3.0 specification, so I used Spectral and Swagger's editor to identify issues and fix them. For example, one endpoint had multiple functions -- dependent upon the payload sent. I removed the previous writer's "fix" (to present the path twice, once with a trailing /) and provided links from the specification to high-level documentation to support the user in understanding how the endpoint functioned and what payloads to provide.
 
