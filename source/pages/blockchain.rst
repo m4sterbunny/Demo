@@ -48,7 +48,7 @@ Written
 *******
 
 - Novice introduction for `Tom Altman`_: A Brave New Blockchain World (`link <novice_>`_)
-- Developer introduction to the crypto behind Bitcoin for `Talentio`_ (`link <developer_>`_)
+- Developer introduction to the crypto behind Bitcoin for `Talent`_ (`link <developer_>`_)
 
 Edited
 ******
@@ -131,10 +131,10 @@ My tasks include:
 - Internal legal documentation edit/proof
 
 
-Talentio
-*********
+Talent
+*******
 
-Talent.io are a recruitment agency with a difference. They have built a developer community that comes to them by hosting events that people want to attend and speakers that people want to hear. My task was to write up some of these talks to market these events.
+`Talent <https://www.talent.io/p/en-gb/home>`_ are a recruitment agency with a difference. They have built a developer community that comes to them by hosting events that people want to attend and speakers that people want to hear. My task was to write up some of these talks to market these events.
 
 Tom Altman
 **********
