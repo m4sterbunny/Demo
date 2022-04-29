@@ -105,7 +105,7 @@ My tasks included:
 - website content -- edit/proof
 - twitter content -- write
 - FAQ -- edit/proof
-- User/Developer documentation edit/write (pre-existing (excellent)internal developer information as a source)
+- User/Developer documentation edit/write (pre-existing (excellent) internal developer information as a source)
 
 Fluidity Protocol
 *****************
