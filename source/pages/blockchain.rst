@@ -33,7 +33,7 @@ Yellowpaper
 -----------
 
 - `Blockless Network`_ -- write (not yet finished)
-- StarkWare's Cairo Language Paper (link: `yellow paper <https://eprint.iacr.org/2021/1063.pdf>`_ -- edit
+- StarkWare's Cairo Language Paper (link: `yellow paper <https://eprint.iacr.org/2021/1063.pdf>`_) -- edit
 
 Whitepaper
 ----------
@@ -152,7 +152,7 @@ Ultron Foundation
 I was commissioned to edit the litepaper_ and create the whitepaper for Ultron's DeFi ecosystem.
 
 
-A wider portfolio without a blockchain focus is available `here <pages/portfolio.html>`_.
+A wider portfolio without a blockchain focus is available `here <portfolio.html>`_.
 
 
 
