@@ -109,7 +109,6 @@ Fluidity Protocol
 
 Fluidity_ Protocol is launching a DeFi farming mechanism via their lending and protocol revenue sharing DAO.
 
-Fluidity
 
 StarkWare
 *********
@@ -129,7 +128,7 @@ My tasks include:
 Talent.io
 *********
 
-Talent.io are a recruitment agency with a difference. They have built a developer community that comes to them by hosting events and speakers that people want to attend and hear. My task was to write up some of these talks to market these events.
+Talent.io are a recruitment agency with a difference. They have built a developer community that comes to them by hosting events that people want to attend and speakers that people want to hear. My task was to write up some of these talks to market these events.
 
 Tom Altman
 **********
