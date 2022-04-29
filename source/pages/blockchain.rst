@@ -27,13 +27,13 @@ Blockchain Showcase
 Litepaper
 ---------
 
-Ultron Foundation litepaper_ -- edit
+Ultron Foundation (link: litepaper_)-- edit
 
 Yellowpaper
 -----------
 
 - `Blockless Network`_ -- write (not yet finished)
-- StarkWare's `Cairo Language Paper <https://eprint.iacr.org/2021/1063.pdf>`_ -- edit
+- StarkWare's Cairo Language Paper (link: `yellow paper <https://eprint.iacr.org/2021/1063.pdf>`_ -- edit
 
 Whitepaper
 ----------
@@ -47,8 +47,8 @@ Articles
 Written
 *******
 
-- Novice_ introduction for `Tom Altman`_: A Brave New Blockchain World
-- Developer_ introduction to the crypto behind Bitcoin for `Talentio`_
+- Novice introduction for `Tom Altman`_: A Brave New Blockchain World (`link <novice_>`_)
+- Developer introduction to the crypto behind Bitcoin for `Talentio`_ (`link <developer_>`_)
 
 Edited
 ******
@@ -80,7 +80,7 @@ Edited
 User Docs
 ---------
 
-For `StarkWare`_ I have edited large components of the StarkExV3_ documentation. Writing in Markdown; building in GitBook.
+For StarkWare, I have edited large components of the StarkExV3_ documentation. Writing in Markdown; building in GitBook.
 
 I have also refactored these Cairo_ docs for StarkNet_, now if only the devs would actually merge the PR! Writing in rST; building with Sphinx/Read the Docs.
 
@@ -131,7 +131,7 @@ My tasks include:
 - Internal legal documentation edit/proof
 
 
-Talent.io
+Talentio
 *********
 
 Talent.io are a recruitment agency with a difference. They have built a developer community that comes to them by hosting events that people want to attend and speakers that people want to hear. My task was to write up some of these talks to market these events.
