@@ -53,7 +53,7 @@ Written
 Edited
 ******
 
-- Client: `StarkWare`_
+- Client `StarkWare`_, examples include:
 
 `StarkGate Alpha <https://medium.com/starkware/starkgate-alpha-35d01d21e3af>`_
 
@@ -67,7 +67,7 @@ Edited
 
 `Redefining Scalability <https://medium.com/starkware/redefining-scalability-5aa11ffc5880>`_
 
-- Client: `Fluidity Protocol`_
+- Client `Fluidity Protocol`_
 
 `Fluidity Introduction <https://medium.com/@FluidityProtocol/let-us-introduce-you-to-fluiditydao-619d5bde885f>`_
 
@@ -95,10 +95,11 @@ Blockless Network
 TX Labs are working in stealth mode to create the Blockless Network.
 
 My tasks included:
+
 - whitepaper -- edit
 - yellow paper -- write
 - pitch desk -- edit/proof
-- website -- edit/proof
+- website content -- edit/proof
 - twitter content -- write
 - FAQ -- edit/proof
 - User/Developer documentation edit/write (pre-existing (excellent)internal developer information as a source)
@@ -116,9 +117,10 @@ StarkWare
 `StarkWare <StarkWareSite_>`_ scales L1 blockchains by providing the tech behind validity proofs. StarkEx brings the transaction affordability to dYdX, Sorare, iMMUTABLE, DeversiFi and more. StarkNet will empower the L2 layer on Ethereum.
 
 My tasks include:
+
 - yellow paper -- edit
 - Medium articles -- edit/proof
-- website -- edit/proof
+- website content -- edit/proof
 - FAQ -- edit/proof
 - User/Developer documentation edit
 - UX content -- edit/proof
