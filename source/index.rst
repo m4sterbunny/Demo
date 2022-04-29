@@ -7,6 +7,7 @@ Welcome to Harrie's Showcase
    :caption: Contents:
 
    pages/portfolio.rst
+   pages/blockchain.rst
 
 
 Rationale
