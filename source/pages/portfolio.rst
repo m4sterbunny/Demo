@@ -5,6 +5,9 @@ Technical Writing Showcase
    :maxdepth: 3
    :caption: Contents:
 
+.. _Finout: https://www.finout.io/
+
+.. _Skyway: https://skyway.stoplight.io/docs/skyway-stoplight-doc/branches/main/
 
 .. _Upstart: https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card
 
@@ -104,76 +107,21 @@ Technical Writing Showcase
 
 .. topic:: Contents
 
+    :ref:`Articles <Authoring Articles>`
+
+    :ref:`Editing <Content Review>`
+
+    :ref:`Case Studies <Case Studies>`
+
+    :ref:`Content Pipelines <Content Pipelines>`
+
     :ref:`API Docs <API Documentation>`
 
     :ref:`User Docs <User Guide Documentation>`
 
     :ref:`Installation <Installation Guide>`
 
-    :ref:`Case Studies <Case Studies>`
 
-    :ref:`Articles <Writing Articles>`
-
-    :ref:`Editing <Content Review>`
-
-API Documentation
------------------
-
-- smtp2go_: Bulk email manager API
-- Upstart_ Commerce: Ecommerce API
-
-.. topic:: Note
-
-  The link goes directly to an endpoint that I have edited/approved, but this is a living document that may have endpoints not handled by me!
-
-- Algopix_ (ditto the note above): Product research API
-- Faria_ private API docs: Education management system API
-- cloudRF_ wip API (will be public): Radio installation planning API
-
-See more about these :ref:`API projects` and others below.
-
-User Guide Documentation
-------------------------
-
-Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructued text), making use of the glossary feature offered by Read the Docs. I provided annotated screen shots and detailed the funtion of various toolsets.
-
-This SaaS documentation item is in review and is exposed from my account (with permission). It was written in Markdown in GitBook:
-
-- Allelica_
-
-I often create high-level documentation to assist user understanding of the use cases for the API specification that I have created or edited. Such as this `high level documentation for Algopix <Algopix_HighLevel_>`_.
-
-Not only do I create user guides from scratch, but I also assist with editing the existing documents:
-
-.. list-table:: Documentation Editing
-   :widths: 25 50 25
-   :header-rows: 1
-
-   * - Client
-     - About the gig
-     - URL
-   * - Stark
-     - Stark_ is a startup in the blockchain space. I assist with editing their user documentation, articles, and website content. For example, I am currently editing the existing StarkEx documentation (written in Markdown in GitBook).
-     - StarkExV3_
-   * -
-     - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently editing a section of the existing documentation (written in reStructured text).
-     - Cairo_
-   * - Braze
-     - Braze provides a full-service marketing SaaS. They needed someone to update their documentation to align it with their new style guide (written in Markdown).
-     - Braze_
-
-Overhauling Documentation
-*************************
-
-Documentation editing requires a careful touch. There may be existing style guides to apply, or only an emergent beginnings of a style to extract, cement, and then apply. The existing structure, for example, may not be up for negotiation.
-
-
-Installation Guide
-------------------
-
-Simple installation how-tos are essential for the sanity of everyone, wouldn't you agree?! I created this for NetworQ_.
-
-I also suggested the branding to NetworQ from Networkq. I like it; I hope it stuck!
 
 
 Case Studies
@@ -230,8 +178,8 @@ Case Studies
      - COHRED_
 
 
-Writing Articles
-----------------
+Authoring Articles
+------------------
 
 .. list-table:: Articles
    :widths: 25 50 25
@@ -279,7 +227,7 @@ Clients often have internal subject matter experts who write and need an edit/pr
 
 Alternatively, clients create cross-over projects along the lines of: "would you also be able to take a look at ...". Typically, this request includes a content review of existing or upcoming web content.
 
-.. list-table:: Web Content & Article Editing
+.. list-table:: Editing Web Content & Articles
    :widths: 25 50 25
    :header-rows: 1
 
@@ -298,9 +246,6 @@ Alternatively, clients create cross-over projects along the lines of: "would you
    * - Filespin
      - As I was already aboard assisting with article creation and case studies, I guess it is was a no-brainer to ask me to review the web content for their relaunch
      - `filespin.io <https://filespin.io/>`_
-   * - e-CENS
-     - e-CENS assists clients with data analytics such as Google Analytics and CRM product implementation such as Tealium. With English-as-a-second-language writers, I have assisted with several articles and supported e-CENS through a website relaunch.
-     - ecens_
    * - Soho
      - Soho Dragon is a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig, and with the client being unresponsive, put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations, such as capacity statements for bids.
      - Soho_
@@ -310,11 +255,85 @@ Books & Papers
 
 With a PhD. in Biology and an undergraduate degree in parasitology, I guess it is no surprise that Daniel from `Parasites without Borders <http://parasiteswithoutborders.com/books/>`_ reached out to ask me to edit in the medical field.
 
-This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for pronunciation guide, assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the pdf. Despite being a supported, paid-for option, I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed -- all in all, a great experience.
+This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for pronunciation guide, assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the PDF. Despite being a supported, paid-for option, it did not provide all the functionality we required. I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed -- all in all, a great experience.
 
-I am the editor for several PhD.s and papers in the biology sphere. This is where I cut my editorial teeth before I became focused on technical writing -- for example, this paper_ in pharmacology.
+I am the editor for several PhD.s and papers in the Biology sphere. This is where I cut my editorial teeth before I became focused on technical writing -- for example, this paper_ in pharmacology.
 
 I was also involved in the NGO sector in South Africa. Here I assisted with research_ and editing_: especially the editing of data-driven reports.
+
+Content Pipelines
+-----------------
+
+Dividing my competencies into writing vs. editing is a massive oversimplification of what I do.
+
+I have two clients, for example, for whom I am part of the content pipeline. That means I may be given an article to write, which I will do in part and then hand off to an internal SME when I reach my tech threshold.
+
+Some articles I will have written for them, others I edited. In some instances I did both and then brought those all together to form a long-form white paper or e-book.
+
+Sometimes I am the source for the content ideation. Or, I am the one who knows the past articles so well, that an editing round becomes partly an SEO round.
+
+The lines get a little blurry sometimes, yes?
+
+Both e-CENS_ and Finout_ fall into this category of major blurs and I have touched most of the content on their sites.
+
+API Documentation
+-----------------
+
+- smtp2go_: Bulk email manager API
+- Upstart_ Commerce: e-commerce API
+
+.. topic:: Note
+
+  The link goes directly to an endpoint that I have edited/approved, but this is a living document that may have endpoints not handled by me!
+
+- Algopix_ (ditto the note above): Product research API
+- Faria_ private API docs: Education management system API
+- cloudRF_ wip API (will be public): Radio installation planning API
+- Skyway_ payments: Consumer payment API targeted at Merchants. I created the high-level documents, took the JSON descriptions of endpoints from confluence, and generated an Open API 3.0-compliant spec. In addition, I negotiated redesign of schemas and improved property names to simplify the API for the user.
+
+For a deeper look at the clients and requirements, see :ref:`API projects` below.
+
+User Guide Documentation
+------------------------
+
+Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructued text), making use of the glossary feature offered by Read the Docs. I provided annotated screen shots and detailed the funtion of various toolsets.
+
+This SaaS documentation item is in review and is exposed from my account (with permission). It was written in Markdown in GitBook:
+
+- Allelica_
+
+I often create high-level documentation to assist user understanding of the use cases for the API specification that I have created or edited. Such as this `high level documentation for Algopix <Algopix_HighLevel_>`_, and the user guide for Skyway_.
+
+Not only do I create user guides from scratch, but I also assist with editing the existing documents:
+
+.. list-table:: Documentation Editing
+   :widths: 25 50 25
+   :header-rows: 1
+
+   * - Client
+     - About the gig
+     - URL
+   * - Stark
+     - Stark_ is a startup in the blockchain space. I assist with editing their user documentation, articles, and website content. For example, I am currently editing the existing StarkEx documentation (written in Markdown in GitBook).
+     - StarkExV3_
+   * -
+     - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently editing a section of the existing documentation (written in reStructured text).
+     - Cairo_
+   * - Braze
+     - Braze provides a full-service marketing SaaS. They needed someone to update their documentation to align it with their new style guide (written in Markdown).
+     - Braze_
+
+.. topic:: Note
+
+  Documentation editing requires a careful touch. There may be existing style guides to apply, or only an emergent beginnings of a style to extract, cement, and then apply. The existing structure, for example, may not be up for negotiation.
+
+
+Installation Guide
+------------------
+
+Simple installation how-tos are essential for the sanity of everyone, wouldn't you agree?! I created this for NetworQ_.
+
+I also suggested the branding to NetworQ from Networkq. I like it; I hope it stuck!
 
 API Projects
 ------------
@@ -341,7 +360,7 @@ Initially, the documentation site was built in Redoc.ly. I edited and augmented 
 Cloud RF
 ********
 
-Cloud RF has the most specialized technical topic that I have covered thus far. Other API gigs were fairly unspecialised by comparison eCommerce (Upstart), school administration (Faria), and email marketing (smtp2go). I do not, however, have radio mapping skills.
+Cloud RF has the most specialized technical topic that I have covered thus far. Other API gigs were fairly unspecialised by comparison e-commerce (Upstart), school administration (Faria), and email marketing (smtp2go). I do not, however, have radio mapping skills.
 
 This knowledge challenge was not a barrier to my cleaning the API set and ensuring that it was compliant. It simply required a tighter coms cycle which we achieved using PR comments on GitHub.
 
