@@ -37,7 +37,7 @@ Whitepaper
 Litepaper
 ---------
 
-Ultron_ Foundation: Edit of Ultron's Litepaper
+Ultron_ Foundation: Editor
 
 Yellowpaper
 -----------
