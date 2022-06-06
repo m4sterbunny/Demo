@@ -113,6 +113,8 @@ Technical Writing Showcase
 
     :ref:`Case Studies <Case Studies>`
 
+    `Whitepapers <blockchain.html>`_
+
     :ref:`Content Pipelines <Content Pipelines>`
 
     :ref:`API Docs <API Documentation>`
@@ -120,63 +122,6 @@ Technical Writing Showcase
     :ref:`User Docs <User Guide Documentation>`
 
     :ref:`Installation <Installation Guide>`
-
-
-
-
-Case Studies
-------------
-
-.. list-table:: Case Studies
-   :widths: 25 50 25
-   :header-rows: 1
-
-   * - Client
-     - About the gig
-     - URL
-   * - Reustle
-     - Reustle is a software development house. I have assisted with several case studies and several bids.
-     - JGC_
-   * -
-     -
-     - LBS_
-   * -
-     -
-     - Guarantors_
-   * - Filespin
-     - Filespin has gated the case studies I assisted with. An agency had made a start but missed the mark. Selva asked me to rework the items.
-     - `filespin.io <https://filespin.io/>`_
-   * - Podbean
-     - Podbean conducts regular podcast interviews as part of its marketing strategy. I write these up in a storytelling/case study form.
-     - Slalom_
-   * -
-     -
-     - VMware_
-   * -
-     -
-     - Signature_
-   * -
-     -
-     - Jostens_
-   * -
-     -
-     - James_
-   * - Tangent Solutions
-     - Tangent Solutions commissioned me to assist with their case studies. While they do use these to improve their SEO, their primary motivator is the annual Microsoft Awards entries.
-     - BrandWorx_
-   * -
-     -
-     - KPA_
-   * -
-     -
-     - Equity_
-   * -
-     -
-     - EdNVest_
-   * -
-     -
-     - COHRED_
-
 
 Authoring Articles
 ------------------
@@ -266,15 +211,72 @@ Content Pipelines
 
 Dividing my competencies into writing vs. editing is a massive oversimplification of what I do.
 
-I have two clients, for example, for whom I am part of the content pipeline. That means I may be given an article to write, which I will do in part and then hand off to an internal SME when I reach my tech threshold.
+I have two clients, for example, for whom I am a key part of the content pipeline. That means I may be given an article to write, which I might do. Alternatively, I might write the major part and then hand off to an internal SME when I reach my tech threshold. After which, I become editor for the piece.
 
-Some articles I will have written for them, others I edited. In some instances I did both and then brought those all together to form a long-form white paper or e-book.
+So, some articles I will have written for them, others I edited, and others, both! In some instances I did both and then brought multiple articles together to form a long-form white paper or e-book.
 
 Sometimes I am the source for the content ideation. Or, I am the one who knows the past articles so well, that an editing round becomes partly an SEO round.
 
 The lines get a little blurry sometimes, yes?
 
-Both e-CENS_ and Finout_ fall into this category of major blurs and I have touched most of the content on their sites.
+Both e-CENS_ and Finout_ fall into this category of role blurring and, one way or another, I have touched most of the content on their sites.
+
+
+Case Studies
+------------
+
+.. list-table:: Case Studies
+   :widths: 25 50 25
+   :header-rows: 1
+
+   * - Client
+     - About the gig
+     - URL
+   * - Reustle
+     - Reustle is a software development house. I have assisted with several case studies and several bids.
+     - JGC_
+   * -
+     -
+     - LBS_
+   * -
+     -
+     - Guarantors_
+   * - Filespin
+     - Filespin has gated the case studies I assisted with. An agency had made a start but missed the mark. Selva asked me to rework the items.
+     - `filespin.io <https://filespin.io/>`_
+   * - Podbean
+     - Podbean conducts regular podcast interviews as part of its marketing strategy. I write these up in a storytelling/case study form.
+     - Slalom_
+   * -
+     -
+     - VMware_
+   * -
+     -
+     - Signature_
+   * -
+     -
+     - Jostens_
+   * -
+     -
+     - James_
+   * - Tangent Solutions
+     - Tangent Solutions commissioned me to assist with their case studies. While they do use these to improve their SEO, their primary motivator is the annual Microsoft Awards entries.
+     - BrandWorx_
+   * -
+     -
+     - KPA_
+   * -
+     -
+     - Equity_
+   * -
+     -
+     - EdNVest_
+   * -
+     -
+     - COHRED_
+
+
+
 
 API Documentation
 -----------------
@@ -296,7 +298,7 @@ For a deeper look at the clients and requirements, see :ref:`API projects` below
 User Guide Documentation
 ------------------------
 
-Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructued text), making use of the glossary feature offered by Read the Docs. I provided annotated screen shots and detailed the funtion of various toolsets.
+Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructued text), making use of the glossary feature offered by Read the Docs. I provided annotated screen shots and detailed the function of various tool-sets.
 
 This SaaS documentation item is in review and is exposed from my account (with permission). It was written in Markdown in GitBook:
 
