@@ -19,27 +19,32 @@ Blockchain Showcase
 
 .. _Fluidity: https://medium.com/@FluidityProtocol
 
+.. _Ultron: https://ultron.foundation/
+
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
 
 
+Whitepaper
+----------
+
+- Ultron_ Foundation: Writer
+- `Blockless Network`_: Edit (not yet available)
+- Meta Legends: wip
+- BOOM: wip
+
 Litepaper
 ---------
 
-Ultron Foundation (link: litepaper_)-- edit
+Ultron_ Foundation: Edit of Ultron's Litepaper
 
 Yellowpaper
 -----------
 
-- `Blockless Network`_ -- write (not yet finished)
 - StarkWare's Cairo Language Paper (link: `yellow paper <https://eprint.iacr.org/2021/1063.pdf>`_) -- edit
+- `Blockless Network`_ -- write (not yet finished)
 
-Whitepaper
-----------
-
-- `Blockless Network`_ -- edit (not yet available)
-- `Ultron Foundation`_ -- writing (not yet finished)
 
 Articles
 --------
@@ -150,7 +155,6 @@ Ultron Foundation
 *****************
 
 I was commissioned to edit the litepaper_ and create the whitepaper for Ultron's DeFi ecosystem.
-
 
 A wider portfolio without a blockchain focus is available `here <portfolio.html>`_.
 
