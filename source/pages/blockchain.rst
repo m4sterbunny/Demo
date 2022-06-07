@@ -87,11 +87,11 @@ User Docs
 
 For StarkWare, I have edited large components of the StarkExV3_ documentation. Writing in Markdown; building in GitBook.
 
-I have also refactored these Cairo_ docs for StarkNet_, now if only the devs would actually merge the PR! Writing in rST; building with Sphinx/Read the Docs.
+I have also refactored these Cairo_ docs for StarkNet_; now if only the devs would actually merge the PR! Writing in rST; building with Sphinx/Read the Docs.
 
-For `TX Labs`_ I have worked with one of their developers to introduce how to request and assign service nodes. Writing in Markdown; building in GitBook.
+For `TX Labs`_, I have worked with one of their developers to introduce how to request and assign service nodes. Writing in Markdown; building in GitBook.
 
-For Ethereum's open source docs, I improved the description around reorgs (see `PR <https://github.com/ethereum/ethereum-org-website/pull/3267>`_).
+For Ethereum's docs, I improved the description around reorgs (see `PR <https://github.com/ethereum/ethereum-org-website/pull/3267>`_).
 
 
 Clients
@@ -108,7 +108,7 @@ My tasks included:
 - yellow paper -- write
 - pitch desk -- edit/proof
 - website content -- edit/proof
-- twitter content -- write
+- Twitter content -- write
 - FAQ -- edit/proof
 - User/Developer documentation edit/write (pre-existing (excellent) internal developer information as a source)
 
@@ -121,7 +121,7 @@ Fluidity_ Protocol is launching a DeFi farming mechanism via their lending and p
 StarkWare
 *********
 
-`StarkWare <StarkWareSite_>`_ scales L1 blockchains by providing the tech behind validity proofs. StarkEx brings the transaction affordability to dYdX, Sorare, iMMUTABLE, DeversiFi and more. StarkNet will empower the L2 layer on Ethereum.
+`StarkWare <StarkWareSite_>`_ scales L1 blockchains by providing the tech behind validity proofs. StarkEx brings the transaction affordability to dYdX, Sorare, iMMUTABLE, DeversiFi, and more. StarkNet will provide the L2 layer on Ethereum.
 
 My tasks include:
 
@@ -139,7 +139,7 @@ My tasks include:
 Talent
 *******
 
-`Talent <https://www.talent.io/p/en-gb/home>`_ are a recruitment agency with a difference. They have built a developer community that comes to them by hosting events that people want to attend and speakers that people want to hear. My task was to write up some of these talks to market these events.
+`Talent <https://www.talent.io/p/en-gb/home>`_ is a recruitment agency with a difference. They have built a developer community that comes to them by hosting events that people want to attend and speakers that people want to hear. My task was to write up some of these talks to market these events.
 
 Tom Altman
 **********

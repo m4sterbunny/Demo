@@ -134,7 +134,7 @@ Authoring Articles
      - About the gig
      - URL
    * - Lottie
-     - Lottie commissioned 2 "How To" articles to guide users to use their product in a React App.
+     - Lottie commissioned 2 "How To" articles to guide users in using their product in a React App.
      - Lottie_ article
    * - Tom Altman
      - Tom commissioned an entry-level "What is blockchain" article.
@@ -192,7 +192,7 @@ Alternatively, clients create cross-over projects along the lines of: "would you
      - As I was already aboard assisting with article creation and case studies, I guess it is was a no-brainer to ask me to review the web content for their relaunch
      - `filespin.io <https://filespin.io/>`_
    * - Soho
-     - Soho Dragon is a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig, and with the client being unresponsive, put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations, such as capacity statements for bids.
+     - Soho Dragon is a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig and, with the client being unresponsive, put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations, such as capacity statements for bids.
      - Soho_
 
 Books & Papers
@@ -200,7 +200,7 @@ Books & Papers
 
 With a PhD. in Biology and an undergraduate degree in parasitology, I guess it is no surprise that Daniel from `Parasites without Borders <http://parasiteswithoutborders.com/books/>`_ reached out to ask me to edit in the medical field.
 
-This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for pronunciation guide, assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the PDF. Despite being a supported, paid-for option, it did not provide all the functionality we required. I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed -- all in all, a great experience.
+This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for a pronunciation guide and assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the PDF. Despite being a supported, paid-for option, it did not provide all the functionality we required. I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed -- all in all, a great experience.
 
 I am the editor for several PhD.s and papers in the Biology sphere. This is where I cut my editorial teeth before I became focused on technical writing -- for example, this paper_ in pharmacology.
 
@@ -211,15 +211,15 @@ Content Pipelines
 
 Dividing my competencies into writing vs. editing is a massive oversimplification of what I do.
 
-I have two clients, for example, for whom I am a key part of the content pipeline. That means I may be given an article to write, which I might do. Alternatively, I might write the major part and then hand off to an internal SME when I reach my tech threshold. After which, I become editor for the piece.
+I have two clients, for example, for whom I am a key part of the content pipeline. That means I may be given an article to write, which I might do. Alternatively, I might write the major part and then hand off to an internal SME when I reach my tech threshold. After which, I become the editor for the piece.
 
-So, some articles I will have written for them, others I edited, and others, both! In some instances I did both and then brought multiple articles together to form a long-form white paper or e-book.
+So, some articles I will have written for them, others I edited, and others, both! In some instances, I did both and then brought multiple articles together to form a long-form white paper or e-book.
 
-Sometimes I am the source for the content ideation. Or, I am the one who knows the past articles so well, that an editing round becomes partly an SEO round.
+Sometimes I am the source of the content ideation. Or, I am the one who knows the past articles so well, that an editing round becomes partly an SEO round.
 
 The lines get a little blurry sometimes, yes?
 
-Both e-CENS_ and Finout_ fall into this category of role blurring and, one way or another, I have touched most of the content on their sites.
+Both ecens_ and Finout_ fall into this category of role blurring and, one way or another, I have touched most of the content on their sites.
 
 
 Case Studies
@@ -298,13 +298,13 @@ For a deeper look at the clients and requirements, see :ref:`API projects` below
 User Guide Documentation
 ------------------------
 
-Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructued text), making use of the glossary feature offered by Read the Docs. I provided annotated screen shots and detailed the function of various tool-sets.
+Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructured text), making use of the glossary feature offered by Read the Docs. I provided annotated screen-shots and detailed the function of various tool sets.
 
 This SaaS documentation item is in review and is exposed from my account (with permission). It was written in Markdown in GitBook:
 
 - Allelica_
 
-I often create high-level documentation to assist user understanding of the use cases for the API specification that I have created or edited. Such as this `high level documentation for Algopix <Algopix_HighLevel_>`_, and the user guide for Skyway_.
+I often create high-level documentation to assist user understanding of the use cases for the API specification that I have created or edited: such as this `high level documentation for Algopix <Algopix_HighLevel_>`_, and the user guide for Skyway_.
 
 Not only do I create user guides from scratch, but I also assist with editing the existing documents:
 
@@ -327,7 +327,7 @@ Not only do I create user guides from scratch, but I also assist with editing th
 
 .. topic:: Note
 
-  Documentation editing requires a careful touch. There may be existing style guides to apply, or only an emergent beginnings of a style to extract, cement, and then apply. The existing structure, for example, may not be up for negotiation.
+  Documentation editing requires a careful touch. There may be existing style guides to apply, or only an emergent style to extract, cement, and then apply. The existing structure, for example, may not be up for negotiation.
 
 
 Installation Guide
@@ -345,19 +345,19 @@ Upstart Commerce
 
 I cleaned up the YAML/Swagger to ensure that the API is described correctly and assists the user effectively. I also "proofed", i.e. I fixed those issues that affect quality, such as ensuring consistency of the English language variant and style applied.
 
-Upstart_ Commerce have their Open API 3.0 documentation publicly available. This is one of the larger API sets that I cleaned up. Working with the Russian dev team across Slack, the docs are now fully compliant and consistent (US English).
+Upstart_ Commerce have its Open API 3.0 documentation publicly available. This is one of the larger API sets that I cleaned up. Working with the Russian dev team across Slack, the docs are now fully compliant and consistent (US English).
 
 Faria
 *****
 
-The largest API set that I have cleaned is for Faria, for whom I cleaned multiple APIs. There is no intention to make these API documents publicly available. I have, therefore, provided a brief introduction and provide the smallest possible Faria_ endpoint specification.
+The largest API set that I have cleaned is for Faria, for whom I cleaned multiple APIs. There is no intention to make these API documents publicly available. I have, therefore, provided a brief introduction and the smallest possible Faria_ endpoint specification.
 
 The docs are now fully compliant and consistent (US English for the APIs, UK English for the high-level client support documentation).
 
 SMTP2GO
 *******
 
-Initially, the documentation site was built in Redoc.ly. I edited and augmented the existing specification by working directly with the YAML. The team then moved to the single page site builder Slate. I worked with the developers across Asana, Slack, and GitHub until we had the functionality they required. The smtp2go_ documentation is now live.
+Initially, the documentation site was built in Redoc.ly. I edited and augmented the existing specification by working directly with the YAML. The team then moved to the single-page site builder Slate. I worked with the developers across Asana, Slack, and GitHub until we had the functionality they required. The smtp2go_ documentation is now live.
 
 Cloud RF
 ********
@@ -407,7 +407,7 @@ I also mapped the relevant fields of these schemas back to the `FHIR specificati
 Dairy Vets
 **********
 
-Dairy Vets had a non-compliant API and were keen to get it to render in Redoc.ly. I worked it through Redoc.ly's linter (with the lint requirements customised to "minimal") until it was compliant enough to render. Where compromises were made to achieve this, I logged "conversations" on the PR in GitHub to prevent any issues being dropped.
+Dairy Vets had a non-compliant API and were keen to get it to render in Redoc.ly. I worked it through Redoc.ly's linter (with the lint requirements customised to "minimal") until it was compliant enough to render. Where compromises were made to achieve this, I logged "conversations" on the PR in GitHub to prevent any issues from being dropped.
 
 
 
