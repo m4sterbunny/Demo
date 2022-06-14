@@ -21,6 +21,10 @@ Blockchain Showcase
 
 .. _Ultron: https://ultron.foundation/
 
+.. _YCLUB: https://docs.yclub.io/
+
+.. _Legends: https://www.meta-legends.com/
+
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
@@ -31,8 +35,8 @@ Whitepaper
 
 - Ultron_ Foundation: Writer
 - `Blockless Network`_: Edit (not yet available)
-- Meta Legends: wip
-- BOOM: wip
+- Meta Legends_: wip
+- YCLUB_: Writer
 
 Litepaper
 ---------
@@ -117,6 +121,10 @@ Fluidity Protocol
 
 Fluidity_ Protocol is launching a DeFi farming mechanism via their lending and protocol revenue sharing DAO.
 
+Meta Legends
+************
+
+Meta Legends is in stealth mode at the moment. I work for the agency who provided the tokenomics support.
 
 StarkWare
 *********
@@ -159,5 +167,8 @@ I was commissioned to edit the litepaper_ and create the whitepaper for Ultron's
 A wider portfolio without a blockchain focus is available `here <portfolio.html>`_.
 
 
+YCLUB
+*****
 
+I work for the agency who provided the tokenomics support for the YCLUB project.
 
