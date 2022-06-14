@@ -104,7 +104,7 @@ Clients
 Blockless Network
 *****************
 
-TX Labs are working in stealth mode to create the Blockless Network.
+`TX Labs <TXLabs_>`_ is launching `Blockless <https://blockless.medium.com/>`_. The project is still in stealth mode. For the public-facing content, I assisted before the rebranding from TX Mesh. Since the rebrand, I have only worked the documentation (not yet public).
 
 My tasks included:
 
@@ -153,11 +153,6 @@ Tom Altman
 **********
 
 Tom is a developer and solutions designer who improves his site's SEO by keeping up with the zeitgeist.
-
-TX Labs
-*******
-
-`TX Labs <TXLabs_>`_ is launching `Blockless <https://blockless.medium.com/>`_. The project is still in stealth mode. For public-facing content, I assisted before the rebranding from TX Mesh. Since the rebrand, I have only worked the documentation (not yet public).
 
 Ultron Foundation
 *****************
