@@ -222,6 +222,19 @@ The lines get a little blurry sometimes, yes?
 Both ecens_ and Finout_ fall into this category of role blurring and, one way or another, I have touched most of the content on their sites.
 
 
+.. list-table:: Writing Finout
+   :widths: 25
+   :header-rows: 1
+
+   * - Article
+   * - `Sustainability in the Cloud <https://www.finout.io/blog/this-is-why-finout-is-important-to-sustainability>`_
+   * - `FinOps impact on Cloud computing <https://www.finout.io/blog/finops-business-approach>`_
+   * - `True Cloud costs <https://www.finout.io/blog/finops-cloud-costs>`_
+   * - `AWS tagging how to <https://www.finout.io/blog/hot-to-aws-tagging>`_
+   * - `K8s labels how to <https://www.finout.io/blog/kuberentes-labels-guide>`_
+   * - `Cloud Cost observability tools <https://www.finout.io/blog/kubernetes20cost20observability20tools202022>`_
+
+
 Case Studies
 ------------
 
