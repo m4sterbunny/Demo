@@ -5,15 +5,13 @@ Technical Writing Showcase
    :maxdepth: 3
    :caption: Contents:
 
+.. _Proofjump: https://proofjump.com/resources/docs/
+
 .. _Finout: https://www.finout.io/
 
 .. _Skyway: https://skyway.stoplight.io/docs/skyway-stoplight-doc/branches/main/
 
-.. _Upstart: https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card
-
 .. _Faria: https://m4sterbunny.github.io/build/#client-3-faria
-
-.. _smtp2go: https://smtp2go.github.io/smtp2go.apidocs/#smtp2go-api
 
 .. _cloudrf: https://m4sterbunny.github.io/build/#client-1-cloud-rf
 
@@ -123,6 +121,47 @@ Technical Writing Showcase
 
     :ref:`Installation <Installation Guide>`
 
+API Documentation
+-----------------
+
+
+.. list-table:: API specification support projects
+   :widths: 25 50 25
+   :header-rows: 1
+
+   * - Client
+     - Notes
+     - Docs URL
+   * - `Qredo <https://qredo.com>`_
+     - Supported 3 product releases for this Programmatic Web3 and fund management API
+     - `Developer Portal <https://developers.qredo.com>`_
+   * - `SMTP to go <https://www.smtp2go.com/>`_
+     - Bulk email manager API
+     - `Developer Docs <https://smtp2go.github.io/smtp2go.apidocs/#smtp2go-api>`_
+   * - Client
+     - e-commerce API
+     - `Docs URL <https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card>`_
+   * - Algopix_
+     - Product research API
+     - Docs URL
+   * - Faria_
+     - Private API docs: Education management system API
+     - Docs URL
+   * - cloudRF_
+     - Radio plyon mapping API (wip)
+     - Docs URL
+   * - Skyway_
+     - Consumer payment API targeted at Merchants
+     - Docs URL
+
+.. topic:: Note
+
+  While I attempt to directly link to an endpoint that I have edited/approved, my clients maintain a living document that may have endpoints not handled by me!
+
+For a deeper look at the clients and requirements, see :ref:`API projects` below.
+
+
+
 Authoring Articles
 ------------------
 
@@ -172,7 +211,7 @@ Clients often have internal subject matter experts who write and need an edit/pr
 
 Alternatively, clients create cross-over projects along the lines of: "would you also be able to take a look at ...". Typically, this request includes a content review of existing or upcoming web content.
 
-.. list-table:: Editing Web Content & Articles
+.. list-table:: Editing Web Content, Papers & Articles
    :widths: 25 50 25
    :header-rows: 1
 
@@ -180,10 +219,10 @@ Alternatively, clients create cross-over projects along the lines of: "would you
      - About the gig
      - URL
    * - Stark
-     - I edit articles for Stark and am developing their style guide.
+     - I edit articles for StarkWare
      - `Redefining scalability <https://medium.com/starkware/redefining-scalability-5aa11ffc5880>`_, `StarkNet Alpha live <https://medium.com/starkware/starknet-alpha-now-on-mainnet-4cf35efd1669>`_, StarkEx_
    * - Cairo
-     - Stark applies its own programming language to provide cryptographic proofs to enable users to record the results of computations on a blockchain. I proofed the yellow paper.
+     - StarkNet / StarkWare applies its own programming language to provide cryptographic proofs to enable users to record the results of computations on a blockchain. I proofed the yellow paper.
      - yellowpaper_
    * -
      - In addition to editing articles and documentation for Stark, I also reviewed the website content for their launch. Stark has several product offerings, including StarkEx -- a Layer-2 scalability engine, live on Ethereum Mainnet.
@@ -191,9 +230,7 @@ Alternatively, clients create cross-over projects along the lines of: "would you
    * - Filespin
      - As I was already aboard assisting with article creation and case studies, I guess it is was a no-brainer to ask me to review the web content for their relaunch
      - `filespin.io <https://filespin.io/>`_
-   * - Soho
-     - Soho Dragon is a Microsoft Development house based in NY. Peter had hoped to engage me for a documentation gig and, with the client being unresponsive, put me to work on his site instead. I improved the SEO using YOAST and tidied up the language. I have also improved presentations, such as capacity statements for bids.
-     - Soho_
+
 
 Books & Papers
 **************
@@ -211,7 +248,7 @@ Content Pipelines
 
 Dividing my competencies into writing vs. editing is a massive oversimplification of what I do.
 
-I have two clients, for example, for whom I am a key part of the content pipeline. That means I may be given an article to write, which I might do. Alternatively, I might write the major part and then hand off to an internal SME when I reach my tech threshold. After which, I become the editor for the piece.
+I have two clients, for example, for whom I was a key part of the content pipeline. That means I may have be given an article to write, or I suggest an article relevant to their needs. Alternatively, I might write the major part and then hand off to an internal SME when I reach my tech threshold. After which, I become the editor for the piece.
 
 So, some articles I will have written for them, others I edited, and others, both! In some instances, I did both and then brought multiple articles together to form a long-form white paper or e-book.
 
@@ -219,7 +256,7 @@ Sometimes I am the source of the content ideation. Or, I am the one who knows th
 
 The lines get a little blurry sometimes, yes?
 
-Both ecens_ and Finout_ fall into this category of role blurring and, one way or another, I have touched most of the content on their sites.
+Both ecens_ and Finout_ fall into this category of role blurring and, one way or another, I touched most of the content on their sites in my time with them.
 
 
 .. list-table:: Writing Finout
@@ -233,6 +270,54 @@ Both ecens_ and Finout_ fall into this category of role blurring and, one way or
    * - `AWS tagging how to <https://www.finout.io/blog/hot-to-aws-tagging>`_
    * - `K8s labels how to <https://www.finout.io/blog/kuberentes-labels-guide>`_
    * - `Cloud Cost observability tools <https://www.finout.io/blog/kubernetes20cost20observability20tools202022>`_
+   * - `Complete guide to Kubernetes Autoscaling <https://www.finout.io/blog/kuberentes-labels-autoscaling>`_
+
+
+
+User Guide Documentation
+------------------------
+
+Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructured text), making use of the glossary feature offered by Read the Docs. I provided annotated screen-shots and detailed the function of various tool sets.
+
+.. When live add this
+.. https://proofjump.com/resources/docs/
+
+This SaaS documentation item is in review and is exposed from my account (with permission). It was written in Markdown in GitBook:
+
+- Allelica_
+
+I often create high-level documentation to assist user understanding of the use cases for the API specification that I have created or edited: such as this `high level documentation for Algopix <Algopix_HighLevel_>`_, and the user guide for Skyway_.
+
+Not only do I create user guides from scratch, but I also assist with editing the existing documents:
+
+.. list-table:: Documentation Editing
+   :widths: 25 50 25
+   :header-rows: 1
+
+   * - Client
+     - About the gig
+     - URL
+   * - Stark
+     - Stark_ is a startup in the blockchain space. I assist with editing their user documentation, articles, and website content. For example, I am currently editing the existing StarkEx documentation (written in Markdown in GitBook).
+     - StarkExV3_
+   * -
+     - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently editing a section of the existing documentation (written in reStructured text).
+     - Cairo_
+   * - Braze
+     - Braze provides a full-service marketing SaaS. They needed someone to update their documentation to align it with their new style guide (written in Markdown).
+     - Braze_
+
+.. topic:: Note
+
+  Documentation editing requires a careful touch. There may be existing style guides to apply, or only an emergent style to extract, cement, and then apply. The existing structure, for example, may not be up for negotiation.
+
+
+Installation Guide
+------------------
+
+Simple installation how-tos are essential for the sanity of everyone, wouldn't you agree?! I created this for NetworQ_.
+
+I also suggested the branding to NetworQ from Networkq. I like it; I hope it stuck!
 
 
 Case Studies
@@ -288,67 +373,6 @@ Case Studies
      -
      - COHRED_
 
-
-
-
-API Documentation
------------------
-
-- smtp2go_: Bulk email manager API
-- Upstart_ Commerce: e-commerce API
-
-.. topic:: Note
-
-  The link goes directly to an endpoint that I have edited/approved, but this is a living document that may have endpoints not handled by me!
-
-- Algopix_ (ditto the note above): Product research API
-- Faria_ private API docs: Education management system API
-- cloudRF_ wip API (will be public): Radio installation planning API
-- Skyway_ payments: Consumer payment API targeted at Merchants. I created the high-level documents, took the JSON descriptions of endpoints from confluence, and generated an Open API 3.0-compliant spec. In addition, I negotiated redesign of schemas and improved property names to simplify the API for the user.
-
-For a deeper look at the clients and requirements, see :ref:`API projects` below.
-
-User Guide Documentation
-------------------------
-
-Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructured text), making use of the glossary feature offered by Read the Docs. I provided annotated screen-shots and detailed the function of various tool sets.
-
-This SaaS documentation item is in review and is exposed from my account (with permission). It was written in Markdown in GitBook:
-
-- Allelica_
-
-I often create high-level documentation to assist user understanding of the use cases for the API specification that I have created or edited: such as this `high level documentation for Algopix <Algopix_HighLevel_>`_, and the user guide for Skyway_.
-
-Not only do I create user guides from scratch, but I also assist with editing the existing documents:
-
-.. list-table:: Documentation Editing
-   :widths: 25 50 25
-   :header-rows: 1
-
-   * - Client
-     - About the gig
-     - URL
-   * - Stark
-     - Stark_ is a startup in the blockchain space. I assist with editing their user documentation, articles, and website content. For example, I am currently editing the existing StarkEx documentation (written in Markdown in GitBook).
-     - StarkExV3_
-   * -
-     - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently editing a section of the existing documentation (written in reStructured text).
-     - Cairo_
-   * - Braze
-     - Braze provides a full-service marketing SaaS. They needed someone to update their documentation to align it with their new style guide (written in Markdown).
-     - Braze_
-
-.. topic:: Note
-
-  Documentation editing requires a careful touch. There may be existing style guides to apply, or only an emergent style to extract, cement, and then apply. The existing structure, for example, may not be up for negotiation.
-
-
-Installation Guide
-------------------
-
-Simple installation how-tos are essential for the sanity of everyone, wouldn't you agree?! I created this for NetworQ_.
-
-I also suggested the branding to NetworQ from Networkq. I like it; I hope it stuck!
 
 API Projects
 ------------
@@ -422,9 +446,43 @@ Dairy Vets
 
 Dairy Vets had a non-compliant API and were keen to get it to render in Redoc.ly. I worked it through Redoc.ly's linter (with the lint requirements customised to "minimal") until it was compliant enough to render. Where compromises were made to achieve this, I logged "conversations" on the PR in GitHub to prevent any issues from being dropped.
 
+Skyway
+******
+ Skyway_  Payments:  I created the high-level documents, took the JSON descriptions of endpoints from confluence, and generated an Open API 3.0-compliant spec. In addition, I negotiated redesign of schemas and improved property names to simplify the API for the user.
 
+Qredo
+*****
 
+Led Documentation Chapter for 6 months: streamlined the existing, verbose, dev docs portal, applied clean-first and automate principles alongside a strong single-source-of-truth philosophy.
 
+Implementing Standards
+-----------------------
+
+- Negotiated & agreed a JSON naming convention with engineering FE and BE teams
+- Implemented linting using Vale (Spelling, Grammar, Term variants) and tools to validate API 3.0 spec
+- Supported each API product with a downloadable, human-readable API spec (fka Swagger) compliant to OPEN API 3.0
+
+Developer Portal
+----------------
+
+- Negotiated & agreed on a tech stack with Marketing, Customer care, and Product for the new Documentation and Help Centre site (3-months)
+- Contributed to porting existing content to new wireframe and populating new dev portal (1-month)
+- Prioritized content production pipeline (6 months)
+- Contributed to content: supported the release of 3 services as developer-facing documentation (3 months)
+- Rendered & released API specs via dev portal
+- Worked with DevOps to pipe API specs from master repos to communication portal
+- First-pass iterate over 60% of existing dev portal content
+
+General Responsibiliites
+------------------------
+
+- Supporting a developer audience with Docs as code (in Markdown/static site)
+- Developing thorough RESTful API specifications for Open API 3.0 with supporting documentation
+- Managing Documentation Chapter as service desk liaising with Branding, Marketing, InfoSec, DevOps, and Product Managers
+- Attending standups, creating and consuming tickets in Jira
+- RecruitmentLed Documentation Chapter for 6 months.
+
+Skills: Technical Documentation · user documenation · Agile Methodologies · Negotiation · Scrum
 
 
 

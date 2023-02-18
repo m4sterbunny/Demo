@@ -15,9 +15,9 @@ Rationale
 
 This site acts as a showcase for my technical writing.
 
-Showcasing can be a challenge. Many clients have access management, meaning that the documentation I assisted with is only available to their clients.
+Showcasing is challenging. Writing is always a collaborative endeavour and many clients apply access management; controlling access to documentation.
 
-Some clients want to keep their writer a secret and never admit that they brought me in as a freelancer, or they do not want to admit my contribution. I learnt this early in my consulting career when I undertook a large report triage project in which I engaged in, and collaborated with, an analyst to conduct the statistics and a researcher to verify the quoted data. I personally:
+Some clients can't admit to the freelancer's contribution. I learnt this early in my consulting career when I undertook a large report triage project in which I engaged in, and collaborated with, an analyst to re-conduct the statistics and a researcher to verify the quoted data. I personally:
 
 - critiqued the existing analysis
 - agreed the compromises required to rework all the statistical analyses and finish
@@ -38,7 +38,7 @@ Static Site Skills
 
 This site is written in reStructured Text (rST) which is rendered as HTML.
 
-The `portfolio <pages/portfolio.html>`_ includes links to a Slate site, which uses markdown to render HTML. This achieves several objectives:
+The `portfolio <pages/portfolio.html>`_ includes links to a Slate site, which uses markdown to render HTML on GitHub pages. This achieves several objectives:
 1) It demonstrates my markdown capabilities.
 2) It demonstrates that I can handle static site builders solo (no team here!).
 3) The site consumes API data and displays that in a user-friendly manner (more user friendly than current read the docs offerings!).

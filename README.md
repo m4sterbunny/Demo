@@ -3,11 +3,10 @@
 https://demo-zoom.readthedocs.io/en/latest/
 
 
+[Cheat sheet for rST](https://cheat.readthedocs.io/en/latest/rst.html)
+
 ## There is more
 
-But written for my eyes, not for a wider audience.
-
-Hosting [this page](https://rtd-gcp-cloud.readthedocs.io/en/latest/), this documentation was made to assist with the Google Cloud Engineer Course.
 
 ## Build the site
 
