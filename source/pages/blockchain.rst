@@ -33,10 +33,10 @@ Blockchain Showcase
 Whitepaper
 ----------
 
-- Ultron_ Foundation: Writer
-- `Blockless Network`_: Edit (not yet available)
-- Meta Legends_: wip
-- YCLUB_: Writer
+- Ultron_ Foundation: Writer (final draft)
+- `Blockless Network`_: Edit (draft 0)
+- Meta Legends_: Write (draft 0)
+- YCLUB_: Writer (first version)
 
 Litepaper
 ---------
@@ -47,7 +47,7 @@ Yellowpaper
 -----------
 
 - StarkWare's Cairo Language Paper (link: `yellow paper <https://eprint.iacr.org/2021/1063.pdf>`_) -- edit
-- `Blockless Network`_ -- write (not yet finished)
+- `Blockless Network`_ -- write (draft 0)
 
 
 Articles
@@ -165,5 +165,5 @@ A wider portfolio without a blockchain focus is available `here <portfolio.html>
 YCLUB
 *****
 
-I work for the agency who provided the tokenomics support for the YCLUB project.
+I work for the agency who provided the tokenomics and whitepaper support for the YCLUB project.
 
