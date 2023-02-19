@@ -134,7 +134,7 @@ API Documentation
      - `Developer Portal <https://developers.qredo.com>`_
    * - `SMTP2go <https://www.smtp2go.com/>`_
      - Bulk email manager API
-     - `Developer Docs <https://smtp2go.github.io/smtp2go.apidocs/#smtp2go-api>`_
+     - `API Docs <https://smtp2go.github.io/smtp2go.apidocs/#smtp2go-api>`_
    * - `Upstart Commerce <https://upstartcommerce.com/>`_
      - e-commerce API
      - `API docs <https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card>`_
