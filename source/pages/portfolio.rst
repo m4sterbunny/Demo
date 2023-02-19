@@ -125,7 +125,7 @@ API Documentation
 -----------------
 
 
-.. list-table:: API specification support projects
+.. list-table:: Select API Documentation
    :widths: 25 50 25
    :header-rows: 1
 
@@ -135,28 +135,28 @@ API Documentation
    * - `Qredo <https://qredo.com>`_
      - Supported 3 product releases for this Programmatic Web3 and fund management API
      - `Developer Portal <https://developers.qredo.com>`_
-   * - `SMTP to go <https://www.smtp2go.com/>`_
+   * - `SMTP2go <https://www.smtp2go.com/>`_
      - Bulk email manager API
      - `Developer Docs <https://smtp2go.github.io/smtp2go.apidocs/#smtp2go-api>`_
-   * - Client
+   * - `Upstart Commerce <https://upstartcommerce.com/>`_
      - e-commerce API
-     - `Docs URL <https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card>`_
-   * - Algopix_
+     - `API docs <https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card>`_
+   * - `Algopix <https://info.algopix.com/>`_
      - Product research API
-     - Docs URL
-   * - Faria_
+     - `API docs <https://docs.algopix.com/docs/algopix-api-documentation/ZG9jOjE3ODE1Mjg1-authentication>`_
+   * - `Faria <https://www.faria.org/about>`_
      - Private API docs: Education management system API
-     - Docs URL
-   * - cloudRF_
+     - Faria_ docs extract
+   * - `Cloud RF <https://cloudrf.com/mapping-mesh-networks/>`_
      - Radio plyon mapping API (wip)
-     - Docs URL
-   * - Skyway_
+     - `API docs <https://cloudrf.com/documentation/developer/swagger-ui/#/>`_
+   * - `Skyway Payments <https://skywaypayments.com/>`_
      - Consumer payment API targeted at Merchants
-     - Docs URL
+     - `API docs <https://skyway.stoplight.io/docs/skyway-stoplight-doc/branches/main/7ef2485b09b04-skyway-online-payment-product-documentation>`_
 
 .. topic:: Note
 
-  While I attempt to directly link to an endpoint that I have edited/approved, my clients maintain a living document that may have endpoints not handled by me!
+  While I attempt to directly link to API documents that I have edited/approved, my clients maintain a living document that may have endpoints not handled by me. Similarly, documentation may be built out after my engagement is completed.
 
 For a deeper look at the clients and requirements, see :ref:`API projects` below.
 
@@ -277,7 +277,7 @@ Both ecens_ and Finout_ fall into this category of role blurring and, one way or
 User Guide Documentation
 ------------------------
 
-Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created Pathfinder's SAAS documentation in rST (restructured text), making use of the glossary feature offered by Read the Docs. I provided annotated screen-shots and detailed the function of various tool sets.
+Of all the material I create, user documentation is probably the most likely not to be publicly accessible. For example, I created `Pathfinder <https://www.gilytics.com/pathfinder-platform>`_ SAAS documentation in rST (restructured text), making use of the glossary feature offered by Read the Docs. I provided annotated screen-shots and detailed the function of various tool sets.
 
 .. When live add this
 .. https://proofjump.com/resources/docs/
@@ -306,6 +306,9 @@ Not only do I create user guides from scratch, but I also assist with editing th
    * - Braze
      - Braze provides a full-service marketing SaaS. They needed someone to update their documentation to align it with their new style guide (written in Markdown).
      - Braze_
+   * - `ProofJump <https://proofjump.com/index.php>`_
+     - I separated the Navigation pages from the User Guides to ease the user journey through the documentation. Also, I updated the documentation to reflect the most recent version of the app. This included updating screen shots and User Guide flows.
+     - `Documentation <https://proofjump.com/resources/docs/>`_
 
 .. topic:: Note
 
@@ -377,24 +380,18 @@ Case Studies
 API Projects
 ------------
 
-Upstart Commerce
-****************
+Caredove
+********
 
-I cleaned up the YAML/Swagger to ensure that the API is described correctly and assists the user effectively. I also "proofed", i.e. I fixed those issues that affect quality, such as ensuring consistency of the English language variant and style applied.
+Caredove_ engaged me to take over an API specification project (caredoveAPI_). Caredove supports Canadian healthcare providers with a referral management system. The repo was in GitLab, and the spec rendered in Stoplight using JSON files. The original writer had been handed Postman tests and constructed the spec from the JSON.
 
-Upstart_ Commerce have its Open API 3.0 documentation publicly available. This is one of the larger API sets that I cleaned up. Working with the Russian dev team across Slack, the docs are now fully compliant and consistent (US English).
+To ensure that I did not interfere with existing users of the documentation, and to take advantage of Stoplight's rendering of tags, I converted the JSON spec to a YAML file and worked that while retaining the JSON docs.
 
-Faria
-*****
+The YAML did not adhere to Open API 3.0 specification, so I used Spectral and Swagger's editor to identify issues and fix them. For example, one endpoint had multiple functions -- dependent upon the payload sent. I removed the previous writer's "fix" (to present the path twice, once with a trailing /) and provided links from the specification to high-level documentation to support the user in understanding how the endpoint functioned and what payloads to provide.
 
-The largest API set that I have cleaned is for Faria, for whom I cleaned multiple APIs. There is no intention to make these API documents publicly available. I have, therefore, provided a brief introduction and the smallest possible Faria_ endpoint specification.
+Once the YAML could be consumed and rendered by Stoplight, I built up what I called pseudo-schemas. These schemas reflected example JSON payloads for endpoints that were missing their specification details. The reason I called them pseudo-schemas on each PR is that I am not a dev; I am a writer and, as such, believe that these should be validated (ideally by mocking a request with them; I didn't have my own authentication).
 
-The docs are now fully compliant and consistent (US English for the APIs, UK English for the high-level client support documentation).
-
-SMTP2GO
-*******
-
-Initially, the documentation site was built in Redoc.ly. I edited and augmented the existing specification by working directly with the YAML. The team then moved to the single-page site builder Slate. I worked with the developers across Asana, Slack, and GitHub until we had the functionality they required. The smtp2go_ documentation is now live.
+I also mapped the relevant fields of these schemas back to the `FHIR specification <https://www.hl7.org/fhir/datatypes.html>`_ that this endpoint is compliant with.
 
 Cloud RF
 ********
@@ -417,38 +414,33 @@ After that, I assisted with the API for the Shopify dashboard that provides simi
 
 Working under an NDA, I am not able to expose this project further.
 
-Moola
-*****
+Dairy Vets
+**********
 
-Moola support several financial services products. While the API is currently for internal use only, they hope to market the product. I am cleaning up the documentation by working with the Indian development team.
-
+Dairy Vets had a non-compliant API and were keen to get it to render in Redoc.ly. I worked it through Redoc.ly's linter (with the lint requirements customised to "minimal") until it was compliant enough to render. Where compromises were made to achieve this, I logged "conversations" on the PR in GitHub to prevent any issues from being dropped.
 
 Distributed Devs
 ****************
 
 Distributed Devs, a British team, engaged me to write up an API for handover to other development teams. I took a less formal approach to allow this to be a much smaller investment and kept all the details in the Readme of the related repositories. Pleased with my efficiencies, they engaged me for other projects such as high-level architecture documentation for products supporting the insurance sector applying AI tools on insurance claims. Again, I am under NDAs and can not expose more about this client.
 
-Caredove
-********
+Faria
+*****
 
-Caredove_ engaged me to take over an API specification project (caredoveAPI_). Caredove supports Canadian healthcare providers with a referral management system. The repo was in GitLab, and the spec rendered in Stoplight using JSON files. The original writer had been handed Postman tests and constructed the spec from the JSON.
+The largest API set that I have cleaned is for Faria, for whom I cleaned multiple APIs. There is no intention to make these API documents publicly available. I have, therefore, provided a brief introduction and the smallest possible Faria_ endpoint specification.
 
-To ensure that I did not interfere with existing users of the documentation, and to take advantage of Stoplight's rendering of tags, I converted the JSON spec to a YAML file and worked that while retaining the JSON docs.
+The docs are now fully compliant and consistent (US English for the APIs, UK English for the high-level client support documentation).
 
-The YAML did not adhere to Open API 3.0 specification, so I used Spectral and Swagger's editor to identify issues and fix them. For example, one endpoint had multiple functions -- dependent upon the payload sent. I removed the previous writer's "fix" (to present the path twice, once with a trailing /) and provided links from the specification to high-level documentation to support the user in understanding how the endpoint functioned and what payloads to provide.
+Glassix
+*******
 
-Once the YAML could be consumed and rendered by Stoplight, I built up what I called pseudo-schemas. These schemas reflected example JSON payloads for endpoints that were missing their specification details. The reason I called them pseudo-schemas on each PR is that I am not a dev; I am a writer and, as such, believe that these should be validated (ideally by mocking a request with them; I didn't have my own authentication).
+`Glassix <https://docs.glassix.com/>`_ needed assistance breaking out the user guides from the API reference, and expanding those guides to better support the developer audience.
 
-I also mapped the relevant fields of these schemas back to the `FHIR specification <https://www.hl7.org/fhir/datatypes.html>`_ that this endpoint is compliant with.
+Moola
+*****
 
-Dairy Vets
-**********
+Moola support several financial services products. While the API is currently for internal use only, they hope to market the product. I assisted to clean up the documentation by working with the Indian development team across Slack and GitHub.
 
-Dairy Vets had a non-compliant API and were keen to get it to render in Redoc.ly. I worked it through Redoc.ly's linter (with the lint requirements customised to "minimal") until it was compliant enough to render. Where compromises were made to achieve this, I logged "conversations" on the PR in GitHub to prevent any issues from being dropped.
-
-Skyway
-******
- Skyway_  Payments:  I created the high-level documents, took the JSON descriptions of endpoints from confluence, and generated an Open API 3.0-compliant spec. In addition, I negotiated redesign of schemas and improved property names to simplify the API for the user.
 
 Qredo
 *****
@@ -484,6 +476,21 @@ General Responsibiliites
 
 Skills: Technical Documentation · user documenation · Agile Methodologies · Negotiation · Scrum
 
+Skyway
+******
+ Skyway_  Payments:  I created the high-level documents, took the JSON descriptions of endpoints from confluence, and generated an Open API 3.0-compliant spec. In addition, I negotiated redesign of schemas and improved property names to simplify the API for the user.
+
+SMTP2GO
+*******
+
+Initially, the documentation site was built in Redoc.ly. I edited and augmented the existing specification by working directly with the YAML. The team then moved to the single-page site builder Slate. I worked with the developers across Asana, Slack, and GitHub until we had the functionality they required. The smtp2go_ documentation is now live.
+
+Upstart Commerce
+****************
+
+I cleaned up the YAML/Swagger to ensure that the API is described correctly and assists the user effectively. I also "proofed", i.e. I fixed those issues that affect quality, such as ensuring consistency of the English language variant and style applied.
+
+Upstart_ Commerce have its Open API 3.0 documentation publicly available. This is one of the larger API sets that I cleaned up. Working with the Russian dev team across Slack, the docs are now fully compliant and consistent (US English).
 
 
 
