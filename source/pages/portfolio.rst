@@ -148,7 +148,7 @@ API Documentation
 
 .. topic:: Note
 
-  While I attempt to directly link to API documents that I have edited/approved, my clients maintain a living document that may have endpoints not handled by me. Similarly, documentation may be built out after my engagement is completed.
+  While I attempt to directly link to API documents that I edited/approved, my clients maintain a living document that may have endpoints not handled by me. Similarly, documentation may be built out after my engagement is completed.
 
 See :ref:`API projects` below, for a deeper look at the clients and their requirements.
 
@@ -158,7 +158,7 @@ Author
 Authoring White Papers
 ----------------------
 
-I have a specific, :doc:`Web3 page <pages/blockchain>` for more information on my involvement in writing and editing white and yellow papers.
+See the :doc:`Web3 page <pages/blockchain>` for more information on my involvement in writing and editing white and yellow papers.
 
 - `Ultron Foundation <https://ultron.foundation/>`_: Whitepaper writer (final draft, see "Documents" menu)
 - `Meta Legends <https://www.meta-legends.com/>`_: Whitepaper writer (draft 0, project in stealth mode)

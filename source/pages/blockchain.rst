@@ -89,7 +89,7 @@ Edited
 User Docs
 ---------
 
-For StarkWare, I have edited large components of the StarkExV3_ documentation. Writing in Markdown; building in GitBook.
+For StarkWare, I edited large components of the StarkExV3_ documentation. Writing in Markdown; building in GitBook.
 
 I have also refactored these Cairo_ docs for StarkNet_; now, if only the devs would actually merge the PR! Writing in rST; building with Sphinx/Read the Docs.
 
