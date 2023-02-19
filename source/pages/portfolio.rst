@@ -97,23 +97,18 @@ Technical Writing
 
 .. _editing: https://drive.google.com/file/d/1g0CogthUGGJ1sEZw43XeOqQwQ9AgOXIs/view
 
-.. _yellowpaper: https://eprint.iacr.org/2021/1063.pdf
+.. _yellow: https://eprint.iacr.org/2021/1063.pdf
 
 
 
 .. topic:: Contents
-
-    :ref:`Articles <Authoring Articles>`
-
-    :ref:`Editing <Content Review>`
-
-    :ref:`Case Studies <Case Studies>`
-
-    `Whitepapers <blockchain.html>`_
-
-    :ref:`Content Pipelines <Content Pipelines>`
-
     :ref:`API Docs <API Documentation>`
+
+    :ref:`White Papers <Authoring White Papers>`
+
+    :ref:`Case Studies <Authoring Case Studies>`
+
+    :ref:`Editing <Editing>`
 
     :ref:`User Docs <User Guide Documentation>`
 
@@ -286,7 +281,7 @@ Alternatively, clients create cross-over projects along the lines of: "would you
      - `Redefining scalability <https://medium.com/starkware/redefining-scalability-5aa11ffc5880>`_, `StarkNet Alpha live <https://medium.com/starkware/starknet-alpha-now-on-mainnet-4cf35efd1669>`_, StarkEx_
    * - Cairo
      - StarkNet / StarkWare applies its own programming language to provide cryptographic proofs to enable users to record the results of computations on a blockchain. I proofed the yellow paper.
-     - yellowpaper_
+     - yellow_ paper
    * -
      - In addition to editing articles and documentation for Stark, I also reviewed the website content for their launch. Stark has several product offerings, including StarkEx -- a Layer-2 scalability engine, live on Ethereum Mainnet.
      - Stark_
