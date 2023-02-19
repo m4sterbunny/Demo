@@ -7,7 +7,7 @@ Blockchain & Web3
 
 .. _StarkWareSite: https://starkware.co
 
-.. _litepaper: https://ultron.foundation/static/media/ultron-light-paper.f3ca8a70f26766cb7c1e.pdf
+.. _lite: https://ultron.foundation/static/media/ultron-light-paper.f3ca8a70f26766cb7c1e.pdf
 
 .. _StarkExV3: https://docs.starkware.co/starkex-v3/
 
@@ -157,13 +157,12 @@ Tom is a developer and solutions designer who improves his site's SEO by keeping
 Ultron Foundation
 *****************
 
-I was commissioned to edit the litepaper_ and create the whitepaper for Ultron's DeFi ecosystem.
+I was commissioned to edit the lite_ paper and create the white paper for Ultron's DeFi ecosystem.
 
 
 YCLUB
 *****
 
-I work for the agency who provided the tokenomics and whitepaper support for the YCLUB project.
+I work for the agency that provided the tokenomics and white paper support for the YCLUB project.
 
-
-A wider portfolio without a blockchain focus is available `here <portfolio.html>`_.
+A wider :doc:`portfolio <pages/portfolio>` without a blockchain focus is available.
