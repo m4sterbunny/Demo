@@ -1,22 +1,35 @@
 # Demo
 
-https://demo-zoom.readthedocs.io/en/latest/
 
-
-[Cheat sheet for rST](https://cheat.readthedocs.io/en/latest/rst.html)
+[Control panel](https://readthedocs.org/projects/demo-zoom/builds/)
 
 ## There is more
+[Cheat sheet for rST](https://cheat.readthedocs.io/en/latest/rst.html)
 
+## Building Locally
 
-## Build the site
-
-1. My Ubuntu is set up with python and pip
-2. Note this is pip3 `pip3 install -U sphinx`
+1. Ubuntu is set up with python and pip
+2. Note this is pip3 which means `pip install -U sphinx` becomes `pip3 install -U sphinx`
 
 3. [setup Sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
 
 4. build by running `make html` on the master folder (1 level above source and build)
 
+Hosting [this page](https://demo-zoom.readthedocs.io/en/latest/)
+
+## Learn
+
+Like this simple site? Try this great rST guide:
+
+http://udig.refractions.net/files/docs/latest/user/docguide/sphinxSyntax.html
+
+or this
+
+https://cheat.readthedocs.io/en/latest/rst.html
+
+or this
+
+https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingReST/CheatSheet.html
 
 
 ## Helpful commands
