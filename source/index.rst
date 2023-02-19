@@ -6,8 +6,8 @@ Welcome to Harrie's Showcase
    :maxdepth: 1
    :caption: Contents:
 
-   pages/portfolio.rst
-   pages/blockchain.rst
+   pages/portfolio
+   pages/blockchain
 
 
 Rationale
@@ -30,7 +30,7 @@ and my acknowledged role: editor!
 
 Sometimes it is simply too politically delicate to admit why you needed your freelancer.
 
-Thankfully, not all clients are complicated and there are some examples in the "wild" that are publicly available.
+Thankfully, not all clients are complicated and there are examples in the "wild" that are publicly available.
 
 
 Static Site Skills
@@ -38,7 +38,7 @@ Static Site Skills
 
 This site is written in reStructured Text (rST) which is rendered as HTML.
 
-The `portfolio <pages/portfolio.html>`_ includes links to a Slate site, which uses markdown to render HTML on GitHub pages. This achieves several objectives:
+The `portfolio <pages/portfolio>`_ includes links to a Slate site, which uses markdown to render HTML on GitHub pages. This achieves several objectives:
 1) It demonstrates my markdown capabilities.
 2) It demonstrates that I can handle static site builders solo (no team here!).
 3) The site consumes API data and displays that in a user-friendly manner (more user friendly than current read the docs offerings!).
