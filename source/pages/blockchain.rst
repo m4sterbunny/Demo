@@ -1,5 +1,5 @@
-Blockchain Showcase
-===================
+Blockchain & Web3
+=================
 
 .. _novice: http://tomaltman.com/brave-new-blockchain-world/
 
@@ -30,21 +30,21 @@ Blockchain Showcase
    :caption: Contents:
 
 
-Whitepaper
-----------
+White Paper
+-----------
 
 - Ultron_ Foundation: Writer (final draft)
 - `Blockless Network`_: Edit (draft 0)
 - Meta Legends_: Write (draft 0)
 - YCLUB_: Writer (first version)
 
-Litepaper
----------
+Lite Paper
+----------
 
 Ultron_ Foundation: Editor
 
-Yellowpaper
------------
+Yellow Paper
+-------------
 
 - StarkWare's Cairo Language Paper (link: `yellow paper <https://eprint.iacr.org/2021/1063.pdf>`_) -- edit
 - `Blockless Network`_ -- write (draft 0)
@@ -91,7 +91,7 @@ User Docs
 
 For StarkWare, I have edited large components of the StarkExV3_ documentation. Writing in Markdown; building in GitBook.
 
-I have also refactored these Cairo_ docs for StarkNet_; now if only the devs would actually merge the PR! Writing in rST; building with Sphinx/Read the Docs.
+I have also refactored these Cairo_ docs for StarkNet_; now, if only the devs would actually merge the PR! Writing in rST; building with Sphinx/Read the Docs.
 
 For `TX Labs`_, I have worked with one of their developers to introduce how to request and assign service nodes. Writing in Markdown; building in GitBook.
 
@@ -104,12 +104,12 @@ Clients
 Blockless Network
 *****************
 
-`TX Labs <TXLabs_>`_ is launching `Blockless <https://blockless.medium.com/>`_. The project is still in stealth mode. For the public-facing content, I assisted before the rebranding from TX Mesh. Since the rebrand, I have only worked the documentation (not yet public).
+`TX Labs <TXLabs_>`_ is launching `Blockless <https://blockless.medium.com/>`_. The project is still in stealth mode. For the public-facing content, I assisted before the rebranding from TX Mesh. Since the rebrand, I have only worked on the documentation (not yet public).
 
 My tasks included:
 
 - whitepaper -- edit
-- yellow paper -- write
+- yellow paper -- write (draft 0)
 - pitch desk -- edit/proof
 - website content -- edit/proof
 - Twitter content -- write
@@ -119,17 +119,17 @@ My tasks included:
 Fluidity Protocol
 *****************
 
-Fluidity_ Protocol is launching a DeFi farming mechanism via their lending and protocol revenue sharing DAO.
+Fluidity_ Protocol is launching a DeFi farming mechanism via their lending and protocol revenue-sharing DAO.
 
 Meta Legends
 ************
 
-Meta Legends is in stealth mode at the moment. I work for the agency who provided the tokenomics support.
+Meta Legends is in stealth mode at the moment. I work for the agency that provided tokenomics support.
 
 StarkWare
 *********
 
-`StarkWare <StarkWareSite_>`_ scales L1 blockchains by providing the tech behind validity proofs. StarkEx brings the transaction affordability to dYdX, Sorare, iMMUTABLE, DeversiFi, and more. StarkNet will provide the L2 layer on Ethereum.
+`StarkWare <StarkWareSite_>`_ scales L1 blockchains by providing the tech behind Zero Knowledge validity proofs. StarkEx brings transaction affordability to dYdX, Sorare, iMMUTABLE, DeversiFi, and more. StarkNet will provide a highly-competitive L2 layer on Ethereum.
 
 My tasks include:
 
@@ -159,11 +159,11 @@ Ultron Foundation
 
 I was commissioned to edit the litepaper_ and create the whitepaper for Ultron's DeFi ecosystem.
 
-A wider portfolio without a blockchain focus is available `here <portfolio.html>`_.
-
 
 YCLUB
 *****
 
 I work for the agency who provided the tokenomics and whitepaper support for the YCLUB project.
 
+
+A wider portfolio without a blockchain focus is available `here <portfolio.html>`_.
