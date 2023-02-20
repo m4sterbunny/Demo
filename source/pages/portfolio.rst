@@ -29,8 +29,6 @@ Technical Writing
 
 .. _shopping: https://filespin.io/blog/2021-06-29-media-management-saas-for-your-enterprise/
 
-.. _JGC: https://strata.co.jp/case-studies/jgc-corporation
-
 .. _LBS: https://strata.co.jp/case-studies/live-building-systems
 
 .. _Guarantors: https://strata.co.jp/case-studies/theguarantors
@@ -102,6 +100,7 @@ Technical Writing
 
 
 .. topic:: Contents
+
     :ref:`API Docs <API Documentation>`
 
     :ref:`White Papers <Authoring White Papers>`
@@ -132,14 +131,14 @@ API Documentation
      - `API Docs <https://smtp2go.github.io/smtp2go.apidocs/#smtp2go-api>`_
    * - `Upstart Commerce <https://upstartcommerce.com/>`_
      - e-commerce API
-     - `API docs <https://apidocs.upstartcommerce.com/docs/api-docs/b3A6NzYxMDU-remove-credit-card>`_
+     - `API docs <https://apidocs.upstartcommerce.com/docs/api-docs/8245c7c92d249-authenticate-a-consumer>`_
    * - `Algopix <https://algopix.com/>`_
      - Product research API
      - `API docs <https://docs.algopix.com/docs/algopix-api-documentation/ZG9jOjE3ODE1Mjg1-authentication>`_
    * - `Faria <https://www.faria.org/about>`_
      - Private API docs: Education management system API
      - `API Docs extract <https://m4sterbunny.github.io/build/#client-3-faria>`_
-   * - `RF <https://cloudrf.com/mapping-mesh-networks/>`_
+   * - `Cloud RF <https://cloudrf.com/mapping-mesh-networks/>`_
      - Radio pylon mapping API
      - `API docs <https://cloudrf.com/documentation/developer/swagger-ui/#/>`_
    * - `Skyway Payments <https://skywaypayments.com/>`_
@@ -217,30 +216,18 @@ Authoring Case Studies
    * - Client
      - About the gig
      - URL
-   * - Reustle
+   * - Strata
      - Reustle is a software development house. I have assisted with several case studies and several bids.
-     - JGC_
-   * -
-     -
      - LBS_
    * -
      -
      - Guarantors_
-   * - Filespin
-     - Filespin has gated the case studies I assisted with. An agency had made a start but missed the mark. Selva asked me to rework the items.
-     - `filespin.io <https://filespin.io/>`_
    * - Podbean
      - Podbean conducts regular podcast interviews as part of its marketing strategy. I write these up in a storytelling/case study form.
      - Slalom_
    * -
      -
      - VMware_
-   * -
-     -
-     - Signature_
-   * -
-     -
-     - Jostens_
    * -
      -
      - James_
@@ -278,9 +265,15 @@ Alternatively, clients create cross-over projects along the lines of: "would you
      - URL
    * - Stark
      - I edit articles for StarkWare
-     - `Redefining scalability <https://medium.com/starkware/redefining-scalability-5aa11ffc5880>`_, `StarkNet Alpha live <https://medium.com/starkware/starknet-alpha-now-on-mainnet-4cf35efd1669>`_, StarkEx_
-   * - Cairo
-     - StarkNet / StarkWare applies its own programming language to provide cryptographic proofs to enable users to record the results of computations on a blockchain. I proofed the yellow paper.
+     - `Redefining scalability <https://medium.com/starkware/redefining-scalability-5aa11ffc5880>`_,
+   * -
+     -
+     - `StarkNet Alpha live <https://medium.com/starkware/starknet-alpha-now-on-mainnet-4cf35efd1669>`_
+   * -
+     -
+     - StarkEx_
+   * -
+     - StarkNet / StarkWare applies its own programming language, Cairo, to provide cryptographic proofs to enable users to record the results of computations on a blockchain. I edited the yellow paper.
      - yellow_ paper
    * -
      - In addition to editing articles and documentation for Stark, I also reviewed the website content for their launch. Stark has several product offerings, including StarkEx -- a Layer-2 scalability engine, live on Ethereum Mainnet.
@@ -288,8 +281,16 @@ Alternatively, clients create cross-over projects along the lines of: "would you
    * - Filespin
      - As I was already aboard assisting with article creation and case studies, I also reviewed the web content for their relaunch
      - `filespin.io <https://filespin.io/>`_
+   * - Ultron
+     - I started as the editor for the lite paper, I went onto write their white paper (as per the Authoring section).
+     - `Ultron Foundation <https://ultron.foundation/>`_
+   * - Blockless Network
+     - I started as the editor for the Blockless white paper and went on to author the first draft of the yellow paper and to edit various aspects of the brand's copy.
+     - `Blockless Network <https://blockless.network/>`_
 
-With a PhD. in Biology and an undergraduate degree in parasitology, I guess it is no surprise that Daniel from `Parasites without Borders <http://parasiteswithoutborders.com/books/>`_ reached out to ask me to edit in the medical field.
+
+
+With a Ph.D. in Biology and an undergraduate degree in parasitology, I guess it is no surprise that Daniel from `Parasites without Borders <http://parasiteswithoutborders.com/books/>`_ reached out to ask me to edit in the medical field.
 
 This book_ edit of Parasitic Diseases was a very interesting gig. It required that I recruit and manage a linguist for a pronunciation guide and assist Daniel with the clinical appendix (a new item for Edition 7 of this text). Also, I took on responsibility for indexing; this required that I identify and consolidate duplicates. When we quite literally ground InDesign's indexing option to a halt, I identified an alternative that consumed the PDF. Despite being a supported, paid-for option, it did not provide all the functionality we required. I recruited someone with python skills to customize a couple of scripts for us to provide the outcome we needed -- all in all, a great experience.
 
@@ -354,7 +355,7 @@ Not only do I create user guides from scratch, but I also assist with editing th
      - URL
    * - Stark
      - Stark_ is a startup in the blockchain space. I assist with editing their user documentation, articles, and website content. For example, I am currently editing the existing StarkEx documentation (written in Markdown in GitBook).
-     - StarkExV3_
+     - `StarkEx <https://docs.starkware.co/starkex/index.html>`_
    * -
      - StarkNet leverages Stark's own language Cairo which allows users to demonstrate "proof" of a valid submission to a blockchain such as Ethereum. I am currently editing a section of the existing documentation (written in reStructured text).
      - Cairo_
@@ -403,7 +404,7 @@ This knowledge challenge was not a barrier to my cleaning the API set and ensuri
 
 I did, however, step away from the high-level documentation, which was initially going to be part of the gig, as my naivety in Radio propagation mapping meant I did not feel I was the best person to provide the high-level docs. I set up the documentation site structure and the page structure and populated the pages with the base information and links. This left the client in a position to complete the high-level documentation internally.
 
-Cloud RFs API is `publicly available <https://cloudrf.com/documentation/developer/swagger-ui/#/>`_. Also I provided a brief introduction and describe a Cloud RF_ endpoint on my demo 3-pane site.
+Cloud RFs API is `publicly available <https://cloudrf.com/documentation/developer/swagger-ui/#/>`_. Also I provided a brief introduction and describe a `Cloud RF endpoint <https://m4sterbunny.github.io/build/#client-1-cloud-rf>`_ on my demo 3-pane site.
 
 
 Cybertonica
@@ -449,14 +450,14 @@ Qredo
 Led Documentation Chapter for 6 months: streamlined the existing, verbose, dev docs portal, applied clean-first and automate principles alongside a strong single-source-of-truth philosophy.
 
 Implementing Standards
-**********************
+======================
 
 - Negotiated & agreed a JSON naming convention with engineering FE and BE teams
 - Implemented linting using Vale (Spelling, Grammar, Term variants) and tools to validate API 3.0 spec
 - Supported each API product with a downloadable, human-readable API spec (fka Swagger) compliant to OPEN API 3.0
 
 Developer Portal
-****************
+================
 
 - Negotiated & agreed on a tech stack with Marketing, Customer care, and Product for the new Documentation and Help Centre site (3 months)
 - Contributed to porting existing content to new wireframe and populating new dev portal (1 month)
@@ -467,7 +468,7 @@ Developer Portal
 - First-pass iterate over 60% of existing dev portal content
 
 General Responsibiliites
-************************
+========================
 
 - Supporting a developer audience with Docs as code (in Markdown/static site)
 - Developing thorough RESTful API specifications for Open API 3.0 with supporting documentation
