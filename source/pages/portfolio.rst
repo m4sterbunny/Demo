@@ -449,15 +449,15 @@ Qredo
 
 Led Documentation Chapter for 6 months: streamlined the existing, verbose, dev docs portal, applied clean-first and automate principles alongside a strong single-source-of-truth philosophy.
 
-Implementing Standards
-======================
+**Implementing Standards**
+
 
 - Negotiated & agreed a JSON naming convention with engineering FE and BE teams
 - Implemented linting using Vale (Spelling, Grammar, Term variants) and tools to validate API 3.0 spec
 - Supported each API product with a downloadable, human-readable API spec (fka Swagger) compliant to OPEN API 3.0
 
-Developer Portal
-================
+**Developer Portal**
+
 
 - Negotiated & agreed on a tech stack with Marketing, Customer care, and Product for the new Documentation and Help Centre site (3 months)
 - Contributed to porting existing content to new wireframe and populating new dev portal (1 month)
@@ -467,8 +467,7 @@ Developer Portal
 - Worked with DevOps to pipe API specs from master repos to communication portal
 - First-pass iterate over 60% of existing dev portal content
 
-General Responsibiliites
-========================
+**General Responsibiliites**
 
 - Supporting a developer audience with Docs as code (in Markdown/static site)
 - Developing thorough RESTful API specifications for Open API 3.0 with supporting documentation
