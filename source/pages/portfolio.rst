@@ -105,6 +105,8 @@ Technical Writing
 
     :ref:`White Papers <Authoring White Papers>`
 
+    :ref:`Articles <Authoring Articles>`
+
     :ref:`Case Studies <Authoring Case Studies>`
 
     :ref:`Editing <Editing>`
