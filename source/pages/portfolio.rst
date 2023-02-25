@@ -105,6 +105,8 @@ Technical Writing
 
     :ref:`White Papers <Authoring White Papers>`
 
+    :ref:`Articles <Authoring Articles>`
+
     :ref:`Case Studies <Authoring Case Studies>`
 
     :ref:`Editing <Editing>`
@@ -264,7 +266,7 @@ Alternatively, clients create cross-over projects along the lines of: "would you
      - About the gig
      - URL
    * - Stark
-     - I edit articles for StarkWare
+     - I edited articles for StarkWare
      - `Redefining scalability <https://medium.com/starkware/redefining-scalability-5aa11ffc5880>`_,
    * -
      -
