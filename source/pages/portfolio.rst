@@ -256,7 +256,7 @@ Editing
 
 Clients often have internal subject matter experts who write and need an edit/proof to improve the copy prior to it going public.
 
-Alternatively, clients create cross-over projects along the lines of: "would you also be able to take a look at ...". Typically, this request includes a content review of existing or upcoming web content.
+Alternatively, clients create cross-over projects along the lines of: "would you also be able to take a look at ...".
 
 .. list-table:: Editing Web Content, Papers & Articles
    :widths: 25 50 25
@@ -289,6 +289,9 @@ Alternatively, clients create cross-over projects along the lines of: "would you
    * - Blockless Network
      - I started as the editor for the Blockless white paper and went on to author the first draft of the yellow paper and to edit various aspects of the brand's copy.
      - `Blockless Network <https://blockless.network/>`_
+   * - SWIAT
+     - SWIAT serves the Capital Banking system: a system that is desperate to invest and utilise crypto, but is firmly lodged in older tech. The creative minds at SWIAT came up with a way to hack an atomic swap on chain facilitated by the SWIFT system. They needed an editor for the paper.
+     - `PDF of the paper <https://www.swiat.io/media/swiat_cycros_whitepaper.pdf>`_
 
 
 
